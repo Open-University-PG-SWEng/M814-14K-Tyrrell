@@ -5,4 +5,17 @@ Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
+REQ-ID:001
+Description: The product shall accept a patient identifier.
+Type: Functional
+Rationale: To be able to uniquely identify every patient.
+Originator: Carol, Office Manager 
+
+REQ-ID:002
+Description: The product shall determine the free appointment slots for a therapist.
+Type: Functional
+Rationale: To be able to offer appointment slots to see a therapist.
+Originator: Carol, Office Manager
+
+
 
