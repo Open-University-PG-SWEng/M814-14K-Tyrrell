@@ -2,7 +2,7 @@ REQ-ID:
 Description:
 Type:
 Rationale:
-Originator:
+Originator: Shunsuke Yanome
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
 
