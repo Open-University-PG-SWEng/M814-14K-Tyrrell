@@ -44,5 +44,17 @@ Type: Functional
 Rationale: The provision of a a range of dates and a range of times will allow the system to further identify available sessions.
 Originator: Dean Armitage
 
+REQ-ID: 007
+Description: The system shall allow the selection of payment type
+Type: Functional 
+Rationale: As part of the processing of the completed treatment record, the payment method needs selected from predefined options.
+Originator: James Birkley
+
+REQ-ID: 008
+Description: The system shall allow the input of data from a treatment record
+Type: Functional
+Rationale: To be able to enter all of the patients treatment information from a compleated treatment record into the system.
+Originator: James Birkley
+
 
 
