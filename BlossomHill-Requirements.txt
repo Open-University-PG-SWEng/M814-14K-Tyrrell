@@ -45,4 +45,17 @@ Rationale: The provision of a a range of dates and a range of times will allow t
 Originator: Dean Armitage
 
 
+REQ-ID: 007
+Type: Functional
+Description: The product shall identify the patient
+Rationale: To be able to keep an up-to-date and accurate patient treatment record
+Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
+Comments: Emma Hastings
 
+
+REQ-ID: 008
+Type: Functional
+Description: The product shall record the patient’s next appointment
+Rationale: To be able to keep an up-to-date appointments list
+Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
+Comments: Emma Hastings
