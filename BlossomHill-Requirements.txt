@@ -71,3 +71,15 @@ Description: The product shall record the patient’s next appointment
 Rationale: To be able to keep an up-to-date appointments list
 Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
 Comments: Emma Hastings
+
+REQ-ID: 009
+Description: There must be several layers of permisions on the system.
+Type: Functional
+Rationale: This is as not all users can make add/modify bookings, so there must be a level of permisions to the system (at least one level for making/changing apointments and another for viewing bookings only). 
+Originator: Joseph Souter
+
+REQ-ID: 010
+Description: The system must track the number of times a patient fails to attend an appointment.
+Type: Functional
+Rationale: This is so the Clinic can track repeat offenders and so first time offenders are not charged for missing their first appointment.
+Originator: Joseph Souter
