@@ -1,0 +1,73 @@
+REQ-ID:
+Description:
+Type:
+Rationale:
+Originator:
+Comments: [M814-ModuleChair] Copy this template below to add new requirements.
+
+REQ-ID:001
+Description: The product shall accept a patient identifier.
+Type: Functional
+Rationale: To be able to uniquely identify every patient.
+Originator: Carol, Office Manager 
+Comments:[Mohammed Ngum]
+
+REQ-ID:002
+Description: The product shall determine the free appointment slots for a therapist.
+Type: Functional
+Rationale: To be able to offer appointment slots to see a therapist.
+Originator: Carol, Office Manager
+Comments:[Mohammed Ngum]
+
+REQ-ID: 003
+Description: The product shall be able to accept a scheduling date.
+Type: Functional
+Rationale: To be able to find and book an available slot, the product needs as an input an approximative date for next appointment.
+Originator: Carol, Office Manager
+
+REQ-ID: 004
+Description: The product shall be able to accept a known therapist name.
+Type: Functional
+Rationale: To be able to find a therapist free slot within a session.
+Originator: Carol, Office Manager
+
+
+REQ-ID: 005
+Description: The system shall allow the user to identify treatment type and physiotherapist.
+Type: Functional
+Rationale: The combination of required treatment type and physiotherapist will allow the system to identify available sessions.
+Originator: Dean Armitage
+
+REQ-ID: 006
+Description: The system shall allow the user to provide a range of dates and a range of times.
+Type: Functional
+Rationale: The provision of a a range of dates and a range of times will allow the system to further identify available sessions.
+Originator: Dean Armitage
+
+REQ-ID: 007
+Description: The system shall allow the selection of payment type
+Type: Functional 
+Rationale: As part of the processing of the completed treatment record, the payment method needs selected from predefined options.
+Originator: James Birkley
+
+REQ-ID: 008
+Description: The system shall allow the input of data from a treatment record
+Type: Functional
+Rationale: To be able to enter all of the patients treatment information from a compleated treatment record into the system.
+Originator: James Birkley
+
+
+REQ-ID: 007
+Type: Functional
+Description: The product shall identify the patient
+Rationale: To be able to keep an up-to-date and accurate patient treatment record
+Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
+Comments: Emma Hastings
+
+
+REQ-ID: 008
+Type: Functional
+Description: The product shall record the patient’s next appointment
+Rationale: To be able to keep an up-to-date appointments list
+Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
+Comments: Emma Hastings
