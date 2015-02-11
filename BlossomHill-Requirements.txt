@@ -112,3 +112,16 @@ Rationale: This will allows the receptionists to help arranging each terapists h
 Originator: Carol, office manager
 Comments: Shunsuke Yanome
 
+REQ-ID: 015
+Description: The system shall allow the user to select whether payment is taken or a health insurer invoice should be made
+Type: Functional, business requirement
+Rationale: Upon accepting a treatment record form, the receptionist needs to take payment immediately or arrange for an insurance invoice to be generated.
+Originator: Carol, office manager
+Comments: Steven Malley
+
+REQ-ID: 016
+Description: The system shall accept the time interval (in days, weeks or months) before the next appointment
+Type: Functional, business requirement
+Rationale: The patient's next appointment should follow an interval advised by the therapist; the system could calculate the date that follows this interval rather than relying on the receptionist to consult a calendar and input the date
+Originator: Carol, office manager
+Comments: Steven Malley
