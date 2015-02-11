@@ -67,7 +67,7 @@ Comments: Emma Hastings
 
 REQ-ID: 008
 Type: Functional
-Description: The product shall record the patient’s next appointment
+Description: The product shall record the patients next appointment
 Rationale: To be able to keep an up-to-date appointments list
 Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
 Comments: Emma Hastings
@@ -83,3 +83,45 @@ Description: The system must track the number of times a patient fails to attend
 Type: Functional
 Rationale: This is so the Clinic can track repeat offenders and so first time offenders are not charged for missing their first appointment.
 Originator: Joseph Souter
+
+REQ-ID: 011
+Description: The system must show a comparison of no-show statistics between two requested time periods.
+Type: Functional
+Rationale: This will allow the clinic to analyse the effect different approaches to reducing no-shows had on the no-show percentage.
+Originator: Carol, office manager
+Comments: Lawrence Craft
+
+REQ-ID: 012
+Description: The system must expose an HTTP interface allowing patients to see their existing bookings.
+Type: Functional
+Rationale: This will allow patients to remember their appointment and see when they booked their appointment.
+Originator: Carol, office manager
+Comments: Lawrence Craft
+
+REQ-ID: 013
+Description: The system shall has an access rights to make or change appointments.
+Type: Functional
+Rationale: This will give the authority to receptionists and Carol (Office manager) to update the appointment data.
+Originator: Carol, office manager
+Comments: Shunsuke Yanome
+
+REQ-ID: 014
+Description: The system shall has the function to confirm the availability of therapists.
+Type: Functional
+Rationale: This will allows the receptionists to help arranging each terapists have a full appointments.
+Originator: Carol, office manager
+Comments: Shunsuke Yanome
+
+REQ-ID: 015
+Description: The system shall allow the user to select whether payment is taken or a health insurer invoice should be made
+Type: Functional, business requirement
+Rationale: Upon accepting a treatment record form, the receptionist needs to take payment immediately or arrange for an insurance invoice to be generated.
+Originator: Carol, office manager
+Comments: Steven Malley
+
+REQ-ID: 016
+Description: The system shall accept the time interval (in days, weeks or months) before the next appointment
+Type: Functional, business requirement
+Rationale: The patient's next appointment should follow an interval advised by the therapist; the system could calculate the date that follows this interval rather than relying on the receptionist to consult a calendar and input the date
+Originator: Carol, office manager
+Comments: Steven Malley
