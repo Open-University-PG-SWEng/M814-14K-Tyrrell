@@ -137,3 +137,17 @@ Type: Functional
 Description: The system shall allow time periods for availability of therapists to be customised
 Rationale: The system should allow annual leave, sickness, working from another clinic, or other period of absence to be recorded so only valid appointments are presented to the patient.
 Originator: Iain Sproat
+
+REQ-ID: 021
+Description: The product shall record how long it should be before the next appointment.
+Type: Functional
+Rationale: To determine an appropriate period for the patient's next appointment. 
+Originator: Carol, Office Manager
+Comments: [Steven Smith]
+
+REQ-ID: 022
+Description: The product shall record the payment due for the treatment.
+Type: Functional
+Rationale: To determine what payment should be collected from the patient or the insurer. 
+Originator: Carol, Office Manager
+Comments: [Steven Smith]
