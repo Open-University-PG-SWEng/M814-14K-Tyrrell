@@ -83,3 +83,17 @@ Description: The system must track the number of times a patient fails to attend
 Type: Functional
 Rationale: This is so the Clinic can track repeat offenders and so first time offenders are not charged for missing their first appointment.
 Originator: Joseph Souter
+
+REQ-ID: 011
+Description: The system must show a comparison of no-show statistics between two requested time periods.
+Type: Functional
+Rationale: This will allow the clinic to analyse the effect different approaches to reducing no-shows had on the no-show percentage.
+Originator: Carol, office manager
+Comments: Lawrence Craft
+
+REQ-ID: 012
+Description: The system must expose an HTTP interface allowing patients to see their existing bookings.
+Type: Functional
+Rationale: This will allow patients to remember their appointment and see when they booked their appointment.
+Originator: Carol, office manager
+Comments: Lawrence Craft
