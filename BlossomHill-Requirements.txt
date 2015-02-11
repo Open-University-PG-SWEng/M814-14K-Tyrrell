@@ -56,22 +56,6 @@ Type: Functional
 Rationale: To be able to enter all of the patients treatment information from a compleated treatment record into the system.
 Originator: James Birkley
 
-
-REQ-ID: 007
-Type: Functional
-Description: The product shall identify the patient
-Rationale: To be able to keep an up-to-date and accurate patient treatment record
-Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
-Comments: Emma Hastings
-
-
-REQ-ID: 008
-Type: Functional
-Description: The product shall record the patients next appointment
-Rationale: To be able to keep an up-to-date appointments list
-Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
-Comments: Emma Hastings
-
 REQ-ID: 009
 Description: There must be several layers of permisions on the system.
 Type: Functional
@@ -125,3 +109,18 @@ Type: Functional, business requirement
 Rationale: The patient's next appointment should follow an interval advised by the therapist; the system could calculate the date that follows this interval rather than relying on the receptionist to consult a calendar and input the date
 Originator: Carol, office manager
 Comments: Steven Malley
+
+REQ-ID: 017
+Type: Functional
+Description: The product shall identify the patient
+Rationale: To be able to keep an up-to-date and accurate patient treatment record
+Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
+Comments: Emma Hastings
+
+
+REQ-ID: 018
+Type: Functional
+Description: The product shall record the patients next appointment
+Rationale: To be able to keep an up-to-date appointments list
+Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
+Comments: Emma Hastings
