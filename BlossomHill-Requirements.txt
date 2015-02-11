@@ -124,3 +124,16 @@ Description: The product shall record the patients next appointment
 Rationale: To be able to keep an up-to-date appointments list
 Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
 Comments: Emma Hastings
+
+REQ-ID: 019
+Type: Functional
+Description: The system shall prompt the user for their insurance details
+Rationale: The user may wish to arrange payment via their private health insurance company.
+Originator: Iain Sproat
+Comments: No insurance details would be a valid option, resulting in payment by the patient
+
+REQ-ID: 020
+Type: Functional
+Description: The system shall allow time periods for availability of therapists to be customised
+Rationale: The system should allow annual leave, sickness, working from another clinic, or other period of absence to be recorded so only valid appointments are presented to the patient.
+Originator: Iain Sproat
