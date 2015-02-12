@@ -151,3 +151,17 @@ Type: Functional
 Rationale: To determine what payment should be collected from the patient or the insurer. 
 Originator: Carol, Office Manager
 Comments: [Steven Smith]
+
+REQ-ID:	023
+Description: The product shall inform the accounts systems that an treatment has been completed
+Type: functional
+Rationale: Interface with adjacent system to facillitate an automated and more convenient invoicing process
+Originator: David
+Comments: Prem Bhatkar
+
+REQ-ID: 024
+Description: the product shall generate artefacts containing the appointment details
+Type: functional
+Rationale:  enhancement to providing appointemnt card. text message, email etc confirming appointment created.
+Originator: Carol
+Comments: Prem Bhatkar
