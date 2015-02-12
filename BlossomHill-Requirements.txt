@@ -137,3 +137,20 @@ Type: Functional
 Description: The system shall allow time periods for availability of therapists to be customised
 Rationale: The system should allow annual leave, sickness, working from another clinic, or other period of absence to be recorded so only valid appointments are presented to the patient.
 Originator: Iain Sproat
+
+REQ-ID: 021
+Description: The system should be able to uniquely identify all users and patients
+Type: Functional
+Rationale: Maintains system credibility as it data integrity is maintained between patients, eliminates patients being added multiple times and adds accountability for the data entry staff.
+Originator: David Jones
+Comments: Christopher Kingsland-Roberts
+
+
+REQ-ID: 022
+Description: The system should store additional entries and amendments to existing entries in chronological order.
+Type: Functional
+Rationale: Improves traceability of what has happened with the patient as a history of their events exists. 
+Originator: David Jones
+Comments: Christopher Kingsland-Roberts
+
+
