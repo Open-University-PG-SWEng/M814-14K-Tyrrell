@@ -139,18 +139,70 @@ Rationale: The system should allow annual leave, sickness, working from another 
 Originator: Iain Sproat
 
 REQ-ID: 021
+Description: The product shall record how long it should be before the next appointment.
+Type: Functional
+Rationale: To determine an appropriate period for the patient's next appointment. 
+Originator: Carol, Office Manager
+Comments: [Steven Smith]
+
+REQ-ID: 022
+Description: The product shall record the payment due for the treatment.
+Type: Functional
+Rationale: To determine what payment should be collected from the patient or the insurer. 
+Originator: Carol, Office Manager
+Comments: [Steven Smith]
+
+REQ-ID:	023
+Description: The product shall inform the accounts systems that an treatment has been completed
+Type: functional
+Rationale: Interface with adjacent system to facillitate an automated and more convenient invoicing process
+Originator: David
+Comments: Prem Bhatkar
+
+REQ-ID: 024
+Description: the product shall generate artefacts containing the appointment details
+Type: functional
+Rationale:  enhancement to providing appointemnt card. text message, email etc confirming appointment created.
+Originator: Carol
+Comments: Prem Bhatkar
+
+REQ-ID: 025
+Description: The system shall have the capability to accept payment for the completed treatment 
+Type: Functional
+Rationale: The business needs to receive payment for completed treatments.
+Originator: Gerard Corrigan
+
+REQ-ID: 026
+Description: The system shall have the capability to search for available appointments using specific parameters
+Type: Functional
+Rationale: Allow the user to quickly find the next suitable appointment for the patient. 
+Originator: Gerard Corrigan
+
+REQ-ID: 027
+Description: The system shall allow for recording that treatment has been paid for when the patient pays the receptionist directly.
+Type: Functional
+Rationale: The business needs to know when treatment has been paid for and this can be paid for in person.
+Originator: Office Manager
+Commencts : Andre Russell
+
+REQ-ID: 028
+Description: The product shall allow for searching for free appointments from a specified amount of time in the future.
+Type: Functional
+Rationale: The patient may need further treatment but only after an amount of time in the future so the system should offer only dates and times after this time has elapsed.
+Originator: Office Manager
+Comments : Andre Russell
+
+REQ-ID: 029
 Description: The system should be able to uniquely identify all users and patients
 Type: Functional
 Rationale: Maintains system credibility as it data integrity is maintained between patients, eliminates patients being added multiple times and adds accountability for the data entry staff.
 Originator: David Jones
 Comments: Christopher Kingsland-Roberts
 
-
-REQ-ID: 022
+REQ-ID: 030
 Description: The system should store additional entries and amendments to existing entries in chronological order.
 Type: Functional
 Rationale: Improves traceability of what has happened with the patient as a history of their events exists. 
 Originator: David Jones
 Comments: Christopher Kingsland-Roberts
-
 
