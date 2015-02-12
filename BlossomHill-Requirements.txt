@@ -165,3 +165,15 @@ Type: functional
 Rationale:  enhancement to providing appointemnt card. text message, email etc confirming appointment created.
 Originator: Carol
 Comments: Prem Bhatkar
+
+REQ-ID: 025
+Description: The system shall have the capability to accept payment for the completed treatment 
+Type: Functional
+Rationale: The business needs to receive payment for completed treatments.
+Originator: Gerard Corrigan
+
+REQ-ID: 026
+Description: The system shall have the capability to search for available appointments using specific parameters
+Type: Functional
+Rationale: Allow the user to quickly find the next suitable appointment for the patient. 
+Originator: Gerard Corrigan
