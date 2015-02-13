@@ -1,8 +1,18 @@
-REQ-ID:
-Description:
+REQ-ID: 031
+Description: The product will allow input of completed treatment for patient
+Type: Functional
+Rationale: To show what treatment has been completed for appointment, and to enable a view of treatment history for patient and therapist
+Originator: Therapists
+Comment : Darren Bates
+
+
+REQ-ID: 032
+Description: The product will display specific therapist schedule
 Type:
-Rationale:
-Originator:
-Comments: [M814-ModuleChair] Copy this template below to add new requirements.
+Rationale: To allow an appointment to be made specific to the treatment a therapist offers
+Originator: Emily, Dawn, Sally (Receptionists)
+Comment : Darren Bates
+
+
 
 
