@@ -1,20 +1,3 @@
-REQ-ID: 031
-Description: The product will allow input of completed treatment for patient
-Type: Functional
-Rationale: To show what treatment has been completed for appointment, and to enable a view of treatment history for patient and therapist
-Originator: Therapists
-Comment : Darren Bates
-
-
-REQ-ID: 032
-Description: The product will display specific therapist schedule
-Type:
-Rationale: To allow an appointment to be made specific to the treatment a therapist offers
-Originator: Emily, Dawn, Sally (Receptionists)
-Comment : Darren Bates
-
-
-
 REQ-ID:001
 Description: The product shall accept a patient identifier.
 Type: Functional
@@ -193,6 +176,7 @@ Description: The system shall allow for recording that treatment has been paid f
 Type: Functional
 Rationale: The business needs to know when treatment has been paid for and this can be paid for in person.
 Originator: Office Manager
+
 Commencts : Andre Russell
 
 REQ-ID: 028
@@ -215,4 +199,35 @@ Type: Functional
 Rationale: Improves traceability of what has happened with the patient as a history of their events exists. 
 Originator: David Jones
 Comments: Christopher Kingsland-Roberts
+
+REQ-ID: 031
+Description: The product will allow input of completed treatment for patient
+Type: Functional
+Rationale: To show what treatment has been completed for appointment, and to enable a view of treatment history for patient and therapist
+Originator: Therapists
+Comment : Darren Bates
+
+
+REQ-ID: 032
+Description: The product will display specific therapist schedule
+Type:
+Rationale: To allow an appointment to be made specific to the treatment a therapist offers
+Originator: Emily, Dawn, Sally (Receptionists)
+Comment : Darren Bates
+
+
+REQ-ID:033
+Description:The system shall determine the free appointment slots
+Type:Functional 
+Rationale:To be able to find a free appointment slot to book a new appointment
+Originator:Receptionist
+Comment : Lisa Li
+
+
+REQ-ID:033
+Description:The system shall record a new appointment booking
+Type:Functional 
+Rationale:To be able to save the appointment and update the free appointment slots to the database
+Originator:Receptionist
+Comment : Lisa Li
 
