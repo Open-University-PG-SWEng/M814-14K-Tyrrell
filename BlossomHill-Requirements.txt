@@ -224,7 +224,7 @@ Originator:Receptionist
 Comment : Lisa Li
 
 
-REQ-ID:033
+REQ-ID:034
 Description:The system shall record a new appointment booking
 Type:Functional 
 Rationale:To be able to save the appointment and update the free appointment slots to the database
