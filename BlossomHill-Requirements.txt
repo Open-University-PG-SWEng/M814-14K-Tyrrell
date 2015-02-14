@@ -207,14 +207,12 @@ Rationale: To show what treatment has been completed for appointment, and to ena
 Originator: Therapists
 Comment : Darren Bates
 
-
 REQ-ID: 032
 Description: The product will display specific therapist schedule
 Type:
 Rationale: To allow an appointment to be made specific to the treatment a therapist offers
 Originator: Emily, Dawn, Sally (Receptionists)
 Comment : Darren Bates
-
 
 REQ-ID:033
 Description:The system shall determine the free appointment slots
@@ -223,11 +221,23 @@ Rationale:To be able to find a free appointment slot to book a new appointment
 Originator:Receptionist
 Comment : Lisa Li
 
-
-REQ-ID:033
+REQ-ID:034
 Description:The system shall record a new appointment booking
 Type:Functional 
 Rationale:To be able to save the appointment and update the free appointment slots to the database
 Originator:Receptionist
 Comment : Lisa Li
 
+REQ-ID: 035
+Description: The system should present read only appointment information to patients via a website
+Type: Functional
+Rationale: Allows the patients to see appointment scheduling. May result in reduced workload for receptionists due to less patients calling to confirm their appointments etc 
+Originator: Carol, Office Manager
+Comments: Dan Page
+
+REQ-ID: 036
+Description: The system must track rota information for therapists including holiday scheduling.  
+Type: Functional
+Rationale: This data is required within the system to allow scheduling of appointments only when the therapists are available 
+Originator: Carol, Office Manager
+Comments: Dan Page
