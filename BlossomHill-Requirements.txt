@@ -47,7 +47,8 @@ Originator: Dean Armitage
 REQ-ID: 007
 Description: The system shall allow the selection of payment type
 Type: Functional 
-Rationale: As part of the processing of the completed treatment record, the payment method needs selected from predefined options.
+Rationale: As part of the processing of the completed treatment record, the payment method needs selected from 
+predefined options (cash or insurance company invoice).
 Originator: James Birkley
 
 REQ-ID: 008
@@ -88,35 +89,6 @@ Type: Functional
 Rationale: This will give the authority to receptionists and Carol (Office manager) to update the appointment data.
 Originator: Carol, office manager
 Comments: Shunsuke Yanome
-
-REQ-ID: 014
-Description: The system shall has the function to confirm the availability of therapists.
-Type: Functional
-Rationale: This will allows the receptionists to help arranging each terapists have a full appointments.
-Originator: Carol, office manager
-Comments: Shunsuke Yanome
-
-REQ-ID: 015
-Description: The system shall allow the user to select whether payment is taken or a health insurer invoice should be made
-Type: Functional, business requirement
-Rationale: Upon accepting a treatment record form, the receptionist needs to take payment immediately or arrange for an insurance invoice to be generated.
-Originator: Carol, office manager
-Comments: Steven Malley
-
-REQ-ID: 016
-Description: The system shall accept the time interval (in days, weeks or months) before the next appointment
-Type: Functional, business requirement
-Rationale: The patient's next appointment should follow an interval advised by the therapist; the system could calculate the date that follows this interval rather than relying on the receptionist to consult a calendar and input the date
-Originator: Carol, office manager
-Comments: Steven Malley
-
-REQ-ID: 017
-Type: Functional
-Description: The product shall identify the patient
-Rationale: To be able to keep an up-to-date and accurate patient treatment record
-Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
-Comments: Emma Hastings
-
 
 REQ-ID: 018
 Type: Functional
