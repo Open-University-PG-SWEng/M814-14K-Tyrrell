@@ -62,16 +62,16 @@ Rationale: This is so the Clinic can track repeat offenders and so first time of
 Originator: Joseph Souter
 
 REQ-ID: 011
-Description: The system must show a comparison of no-show statistics between two requested time periods.
+Description: The system must be able to generate an invoice to an insurance company.
 Type: Functional
-Rationale: This will allow the clinic to analyse the effect different approaches to reducing no-shows had on the no-show percentage.
+Rationale: This will allow the system to process a patient’s insurance details and automatically send a request to the insurance company.
 Originator: Carol, office manager
 Comments: Lawrence Craft
 
 REQ-ID: 012
-Description: The system must expose an HTTP interface allowing patients to see their existing bookings.
+Description: The system must be able to record that a payment has been settled for an appointment.
 Type: Functional
-Rationale: This will allow patients to remember their appointment and see when they booked their appointment.
+Rationale: This allows the clinic to put the payment status of an appointment on file.
 Originator: Carol, office manager
 Comments: Lawrence Craft
 
