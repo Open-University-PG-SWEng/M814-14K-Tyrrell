@@ -4,6 +4,7 @@ Type: Functional
 Rationale: To be able to uniquely identify every patient.
 Originator: Carol, Office Manager 
 Comments:[Mohammed Ngum]
+Comments: Deleted duplicate requirements: 017, 029
 
 REQ-ID:002
 Description: The product shall determine the free appointment slots for a therapist.
@@ -11,25 +12,7 @@ Type: Functional
 Rationale: To be able to offer appointment slots to see a therapist.
 Originator: Carol, Office Manager
 Comments:[Mohammed Ngum]
-
-REQ-ID: 003
-Description: The product shall be able to accept a scheduling date.
-Type: Functional
-Rationale: To be able to find and book an available slot, the product needs as an input an approximative date for next appointment.
-Originator: Carol, Office Manager
-
-REQ-ID: 004
-Description: The product shall be able to accept a known therapist name.
-Type: Functional
-Rationale: To be able to find a therapist free slot within a session.
-Originator: Carol, Office Manager
-
-
-REQ-ID: 005
-Description: The system shall allow the user to identify treatment type and physiotherapist.
-Type: Functional
-Rationale: The combination of required treatment type and physiotherapist will allow the system to identify available sessions.
-Originator: Dean Armitage
+Comments: Deleted duplicate requirements: 014, 026, 028, 032, 033
 
 REQ-ID: 006
 Description: The system shall allow the user to provide a range of dates and a range of times.
@@ -37,23 +20,12 @@ Type: Functional
 Rationale: The provision of a a range of dates and a range of times will allow the system to further identify available sessions.
 Originator: Dean Armitage
 
-REQ-ID: 007
-Description: The system shall allow the selection of payment type
-Type: Functional 
-Rationale: As part of the processing of the completed treatment record, the payment method needs selected from predefined options.
-Originator: James Birkley
-
-REQ-ID: 008
-Description: The system shall allow the input of data from a treatment record
-Type: Functional
-Rationale: To be able to enter all of the patients treatment information from a compleated treatment record into the system.
-Originator: James Birkley
-
 REQ-ID: 009
 Description: There must be several layers of permisions on the system.
 Type: Functional
 Rationale: This is as not all users can make add/modify bookings, so there must be a level of permisions to the system (at least one level for making/changing apointments and another for viewing bookings only). 
 Originator: Joseph Souter
+Comments: Not duplicated so not deleted but this is a NON-FUNCTIONAL REQUIREMENT.  Deleted duplicate requirement: 013
 
 REQ-ID: 010
 Description: The system must track the number of times a patient fails to attend an appointment.
@@ -67,6 +39,7 @@ Type: Functional
 Rationale: This will allow the clinic to analyse the effect different approaches to reducing no-shows had on the no-show percentage.
 Originator: Carol, office manager
 Comments: Lawrence Craft
+Comments: Not duplicated so not deleted but this is OUTSIDE OF THE SCOPE OF THE USE CASE.
 
 REQ-ID: 012
 Description: The system must expose an HTTP interface allowing patients to see their existing bookings.
@@ -74,20 +47,7 @@ Type: Functional
 Rationale: This will allow patients to remember their appointment and see when they booked their appointment.
 Originator: Carol, office manager
 Comments: Lawrence Craft
-
-REQ-ID: 013
-Description: The system shall has an access rights to make or change appointments.
-Type: Functional
-Rationale: This will give the authority to receptionists and Carol (Office manager) to update the appointment data.
-Originator: Carol, office manager
-Comments: Shunsuke Yanome
-
-REQ-ID: 014
-Description: The system shall has the function to confirm the availability of therapists.
-Type: Functional
-Rationale: This will allows the receptionists to help arranging each terapists have a full appointments.
-Originator: Carol, office manager
-Comments: Shunsuke Yanome
+Comments: Not duplicated so not deleted but this is OUTSIDE OF THE SCOPE OF THE USE CASE.
 
 REQ-ID: 015
 Description: The system shall allow the user to select whether payment is taken or a health insurer invoice should be made
@@ -95,6 +55,7 @@ Type: Functional, business requirement
 Rationale: Upon accepting a treatment record form, the receptionist needs to take payment immediately or arrange for an insurance invoice to be generated.
 Originator: Carol, office manager
 Comments: Steven Malley
+Comments: Deleted duplicate requirement: 007, 022, 025, 027
 
 REQ-ID: 016
 Description: The system shall accept the time interval (in days, weeks or months) before the next appointment
@@ -102,14 +63,7 @@ Type: Functional, business requirement
 Rationale: The patient's next appointment should follow an interval advised by the therapist; the system could calculate the date that follows this interval rather than relying on the receptionist to consult a calendar and input the date
 Originator: Carol, office manager
 Comments: Steven Malley
-
-REQ-ID: 017
-Type: Functional
-Description: The product shall identify the patient
-Rationale: To be able to keep an up-to-date and accurate patient treatment record
-Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
-Comments: Emma Hastings
-
+Comments: Deleted duplicate requirement: 021
 
 REQ-ID: 018
 Type: Functional
@@ -131,20 +85,6 @@ Description: The system shall allow time periods for availability of therapists 
 Rationale: The system should allow annual leave, sickness, working from another clinic, or other period of absence to be recorded so only valid appointments are presented to the patient.
 Originator: Iain Sproat
 
-REQ-ID: 021
-Description: The product shall record how long it should be before the next appointment.
-Type: Functional
-Rationale: To determine an appropriate period for the patient's next appointment. 
-Originator: Carol, Office Manager
-Comments: [Steven Smith]
-
-REQ-ID: 022
-Description: The product shall record the payment due for the treatment.
-Type: Functional
-Rationale: To determine what payment should be collected from the patient or the insurer. 
-Originator: Carol, Office Manager
-Comments: [Steven Smith]
-
 REQ-ID:	023
 Description: The product shall inform the accounts systems that an treatment has been completed
 Type: functional
@@ -159,46 +99,13 @@ Rationale:  enhancement to providing appointemnt card. text message, email etc c
 Originator: Carol
 Comments: Prem Bhatkar
 
-REQ-ID: 025
-Description: The system shall have the capability to accept payment for the completed treatment 
-Type: Functional
-Rationale: The business needs to receive payment for completed treatments.
-Originator: Gerard Corrigan
-
-REQ-ID: 026
-Description: The system shall have the capability to search for available appointments using specific parameters
-Type: Functional
-Rationale: Allow the user to quickly find the next suitable appointment for the patient. 
-Originator: Gerard Corrigan
-
-REQ-ID: 027
-Description: The system shall allow for recording that treatment has been paid for when the patient pays the receptionist directly.
-Type: Functional
-Rationale: The business needs to know when treatment has been paid for and this can be paid for in person.
-Originator: Office Manager
-
-Commencts : Andre Russell
-
-REQ-ID: 028
-Description: The product shall allow for searching for free appointments from a specified amount of time in the future.
-Type: Functional
-Rationale: The patient may need further treatment but only after an amount of time in the future so the system should offer only dates and times after this time has elapsed.
-Originator: Office Manager
-Comments : Andre Russell
-
-REQ-ID: 029
-Description: The system should be able to uniquely identify all users and patients
-Type: Functional
-Rationale: Maintains system credibility as it data integrity is maintained between patients, eliminates patients being added multiple times and adds accountability for the data entry staff.
-Originator: David Jones
-Comments: Christopher Kingsland-Roberts
-
 REQ-ID: 030
 Description: The system should store additional entries and amendments to existing entries in chronological order.
 Type: Functional
 Rationale: Improves traceability of what has happened with the patient as a history of their events exists. 
 Originator: David Jones
 Comments: Christopher Kingsland-Roberts
+Comments: Not duplicated so not deleted but this is a NON-FUNCTIONAL REQUIREMENT.
 
 REQ-ID: 031
 Description: The product will allow input of completed treatment for patient
@@ -206,20 +113,7 @@ Type: Functional
 Rationale: To show what treatment has been completed for appointment, and to enable a view of treatment history for patient and therapist
 Originator: Therapists
 Comment : Darren Bates
-
-REQ-ID: 032
-Description: The product will display specific therapist schedule
-Type:
-Rationale: To allow an appointment to be made specific to the treatment a therapist offers
-Originator: Emily, Dawn, Sally (Receptionists)
-Comment : Darren Bates
-
-REQ-ID:033
-Description:The system shall determine the free appointment slots
-Type:Functional 
-Rationale:To be able to find a free appointment slot to book a new appointment
-Originator:Receptionist
-Comment : Lisa Li
+Comments: Deleted duplicate requirements: 004, 005, 008
 
 REQ-ID:034
 Description:The system shall record a new appointment booking
@@ -227,6 +121,7 @@ Type:Functional
 Rationale:To be able to save the appointment and update the free appointment slots to the database
 Originator:Receptionist
 Comment : Lisa Li
+Comments: Deleted duplicate requirements: 003, 014, 026, 028, 032, 033
 
 REQ-ID: 035
 Description: The system should present read only appointment information to patients via a website
@@ -234,6 +129,7 @@ Type: Functional
 Rationale: Allows the patients to see appointment scheduling. May result in reduced workload for receptionists due to less patients calling to confirm their appointments etc 
 Originator: Carol, Office Manager
 Comments: Dan Page
+Comments: Not duplicated so not deleted but this is OUTSIDE OF THE SCOPE OF THE USE CASE.
 
 REQ-ID: 036
 Description: The system must track rota information for therapists including holiday scheduling.  
