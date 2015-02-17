@@ -71,6 +71,7 @@ Type: Functional
 Description: The system shall allow time periods for availability of therapists to be customised
 Rationale: The system should allow annual leave, sickness, working from another clinic, or other period of absence to be recorded so only valid appointments are presented to the patient.
 Originator: Iain Sproat
+Duplicates: 036
 
 REQ-ID:	023
 Description: The product shall inform the accounts systems that an treatment has been completed
@@ -127,12 +128,5 @@ REQ-ID: 035
 Description: The system should present read only appointment information to patients via a website
 Type: Functional
 Rationale: Allows the patients to see appointment scheduling. May result in reduced workload for receptionists due to less patients calling to confirm their appointments etc 
-Originator: Carol, Office Manager
-Comments: Dan Page
-
-REQ-ID: 036
-Description: The system must track rota information for therapists including holiday scheduling.  
-Type: Functional
-Rationale: This data is required within the system to allow scheduling of appointments only when the therapists are available 
 Originator: Carol, Office Manager
 Comments: Dan Page
