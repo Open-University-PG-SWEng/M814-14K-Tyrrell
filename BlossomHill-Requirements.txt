@@ -59,13 +59,6 @@ Rationale: This will give the authority to receptionists and Carol (Office manag
 Originator: Carol, office manager
 Comments: Shunsuke Yanome
 
-REQ-ID: 018
-Type: Functional
-Description: The product shall record the patients next appointment
-Rationale: To be able to keep an up-to-date appointments list
-Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
-Comments: Emma Hastings
-
 REQ-ID: 019
 Type: Functional
 Description: The system shall prompt the user for their insurance details
@@ -84,13 +77,6 @@ Description: The product shall inform the accounts systems that an treatment has
 Type: functional
 Rationale: Interface with adjacent system to facillitate an automated and more convenient invoicing process
 Originator: David
-Comments: Prem Bhatkar
-
-REQ-ID: 024
-Description: the product shall generate artefacts containing the appointment details
-Type: functional
-Rationale:  enhancement to providing appointemnt card. text message, email etc confirming appointment created.
-Originator: Carol
 Comments: Prem Bhatkar
 
 REQ-ID: 025
@@ -135,6 +121,7 @@ Type:Functional
 Rationale:To be able to save the appointment and update the free appointment slots to the database
 Originator:Receptionist
 Comment : Lisa Li
+Duplicates: 018, 024
 
 REQ-ID: 035
 Description: The system should present read only appointment information to patients via a website
