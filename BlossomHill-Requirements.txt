@@ -1,9 +1,3 @@
-REQ-ID: 003
-Description: The product shall be able to accept a scheduling date.
-Type: Functional
-Rationale: To be able to find and book an available slot, the product needs as an input an approximative date for next appointment.
-Originator: Carol, Office Manager
-
 REQ-ID: 004
 Description: The product shall be able to accept a known therapist name.
 Type: Functional
@@ -22,6 +16,7 @@ Description: The system shall allow the user to provide a range of dates and a r
 Type: Functional
 Rationale: The provision of a a range of dates and a range of times will allow the system to further identify available sessions.
 Originator: Dean Armitage
+Duplicates: 003, 016, 026
 
 REQ-ID: 007
 Description: The system shall allow the selection of payment type
@@ -72,13 +67,6 @@ REQ-ID: 015
 Description: The system shall allow the user to select whether payment is taken or a health insurer invoice should be made
 Type: Functional, business requirement
 Rationale: Upon accepting a treatment record form, the receptionist needs to take payment immediately or arrange for an insurance invoice to be generated.
-Originator: Carol, office manager
-Comments: Steven Malley
-
-REQ-ID: 016
-Description: The system shall accept the time interval (in days, weeks or months) before the next appointment
-Type: Functional, business requirement
-Rationale: The patient's next appointment should follow an interval advised by the therapist; the system could calculate the date that follows this interval rather than relying on the receptionist to consult a calendar and input the date
 Originator: Carol, office manager
 Comments: Steven Malley
 
@@ -134,12 +122,6 @@ REQ-ID: 025
 Description: The system shall have the capability to accept payment for the completed treatment 
 Type: Functional
 Rationale: The business needs to receive payment for completed treatments.
-Originator: Gerard Corrigan
-
-REQ-ID: 026
-Description: The system shall have the capability to search for available appointments using specific parameters
-Type: Functional
-Rationale: Allow the user to quickly find the next suitable appointment for the patient. 
 Originator: Gerard Corrigan
 
 REQ-ID: 027
