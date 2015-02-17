@@ -24,6 +24,7 @@ Description: The system shall allow the input of data from a treatment record
 Type: Functional
 Rationale: To be able to enter all of the patients treatment information from a compleated treatment record into the system.
 Originator: James Birkley
+Duplicates: 021, 022, 031
 
 REQ-ID: 009
 Description: There must be several layers of permisions on the system.
@@ -78,20 +79,6 @@ Description: The system shall allow time periods for availability of therapists 
 Rationale: The system should allow annual leave, sickness, working from another clinic, or other period of absence to be recorded so only valid appointments are presented to the patient.
 Originator: Iain Sproat
 
-REQ-ID: 021
-Description: The product shall record how long it should be before the next appointment.
-Type: Functional
-Rationale: To determine an appropriate period for the patient's next appointment. 
-Originator: Carol, Office Manager
-Comments: [Steven Smith]
-
-REQ-ID: 022
-Description: The product shall record the payment due for the treatment.
-Type: Functional
-Rationale: To determine what payment should be collected from the patient or the insurer. 
-Originator: Carol, Office Manager
-Comments: [Steven Smith]
-
 REQ-ID:	023
 Description: The product shall inform the accounts systems that an treatment has been completed
 Type: functional
@@ -133,13 +120,6 @@ Type: Functional
 Rationale: Improves traceability of what has happened with the patient as a history of their events exists. 
 Originator: David Jones
 Comments: Christopher Kingsland-Roberts
-
-REQ-ID: 031
-Description: The product will allow input of completed treatment for patient
-Type: Functional
-Rationale: To show what treatment has been completed for appointment, and to enable a view of treatment history for patient and therapist
-Originator: Therapists
-Comment : Darren Bates
 
 REQ-ID:033
 Description:The system shall determine the free appointment slots
