@@ -1,10 +1,3 @@
-REQ-ID:001
-Description: The product shall accept a patient identifier.
-Type: Functional
-Rationale: To be able to uniquely identify every patient.
-Originator: Carol, Office Manager 
-Comments:[Mohammed Ngum]
-
 REQ-ID:002
 Description: The product shall determine the free appointment slots for a therapist.
 Type: Functional
@@ -103,14 +96,6 @@ Rationale: The patient's next appointment should follow an interval advised by t
 Originator: Carol, office manager
 Comments: Steven Malley
 
-REQ-ID: 017
-Type: Functional
-Description: The product shall identify the patient
-Rationale: To be able to keep an up-to-date and accurate patient treatment record
-Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
-Comments: Emma Hastings
-
-
 REQ-ID: 018
 Type: Functional
 Description: The product shall record the patients next appointment
@@ -192,6 +177,7 @@ Type: Functional
 Rationale: Maintains system credibility as it data integrity is maintained between patients, eliminates patients being added multiple times and adds accountability for the data entry staff.
 Originator: David Jones
 Comments: Christopher Kingsland-Roberts
+Duplicates: 001, 017
 
 REQ-ID: 030
 Description: The system should store additional entries and amendments to existing entries in chronological order.
