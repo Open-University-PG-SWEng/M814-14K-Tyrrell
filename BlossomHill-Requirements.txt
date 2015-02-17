@@ -28,7 +28,7 @@ Duplicates: 021, 022, 031
 
 REQ-ID: 009
 Description: There must be several layers of permisions on the system.
-Type: Functional
+Type: Nonfunctional
 Rationale: This is as not all users can make add/modify bookings, so there must be a level of permisions to the system (at least one level for making/changing apointments and another for viewing bookings only). 
 Originator: Joseph Souter
 
@@ -54,7 +54,7 @@ Comments: Lawrence Craft
 
 REQ-ID: 013
 Description: The system shall has an access rights to make or change appointments.
-Type: Functional
+Type: Nonfunctional
 Rationale: This will give the authority to receptionists and Carol (Office manager) to update the appointment data.
 Originator: Carol, office manager
 Comments: Shunsuke Yanome
