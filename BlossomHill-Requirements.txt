@@ -1,10 +1,3 @@
-REQ-ID:002
-Description: The product shall determine the free appointment slots for a therapist.
-Type: Functional
-Rationale: To be able to offer appointment slots to see a therapist.
-Originator: Carol, Office Manager
-Comments:[Mohammed Ngum]
-
 REQ-ID: 003
 Description: The product shall be able to accept a scheduling date.
 Type: Functional
@@ -72,13 +65,6 @@ REQ-ID: 013
 Description: The system shall has an access rights to make or change appointments.
 Type: Functional
 Rationale: This will give the authority to receptionists and Carol (Office manager) to update the appointment data.
-Originator: Carol, office manager
-Comments: Shunsuke Yanome
-
-REQ-ID: 014
-Description: The system shall has the function to confirm the availability of therapists.
-Type: Functional
-Rationale: This will allows the receptionists to help arranging each terapists have a full appointments.
 Originator: Carol, office manager
 Comments: Shunsuke Yanome
 
@@ -161,15 +147,7 @@ Description: The system shall allow for recording that treatment has been paid f
 Type: Functional
 Rationale: The business needs to know when treatment has been paid for and this can be paid for in person.
 Originator: Office Manager
-
 Commencts : Andre Russell
-
-REQ-ID: 028
-Description: The product shall allow for searching for free appointments from a specified amount of time in the future.
-Type: Functional
-Rationale: The patient may need further treatment but only after an amount of time in the future so the system should offer only dates and times after this time has elapsed.
-Originator: Office Manager
-Comments : Andre Russell
 
 REQ-ID: 029
 Description: The system should be able to uniquely identify all users and patients
@@ -193,19 +171,13 @@ Rationale: To show what treatment has been completed for appointment, and to ena
 Originator: Therapists
 Comment : Darren Bates
 
-REQ-ID: 032
-Description: The product will display specific therapist schedule
-Type:
-Rationale: To allow an appointment to be made specific to the treatment a therapist offers
-Originator: Emily, Dawn, Sally (Receptionists)
-Comment : Darren Bates
-
 REQ-ID:033
 Description:The system shall determine the free appointment slots
 Type:Functional 
 Rationale:To be able to find a free appointment slot to book a new appointment
 Originator:Receptionist
 Comment : Lisa Li
+Duplicates: 002, 014, 028, 032
 
 REQ-ID:034
 Description:The system shall record a new appointment booking
