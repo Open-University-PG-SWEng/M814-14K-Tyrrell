@@ -1,15 +1,9 @@
 REQ-ID: 004
-Description: The product shall be able to accept a known therapist name.
+Description: The product shall be able to filter available slots by therapist name.
 Type: Functional
 Rationale: To be able to find a therapist free slot within a session.
 Originator: Carol, Office Manager
-
-
-REQ-ID: 005
-Description: The system shall allow the user to identify treatment type and physiotherapist.
-Type: Functional
-Rationale: The combination of required treatment type and physiotherapist will allow the system to identify available sessions.
-Originator: Dean Armitage
+Duplicates: 005
 
 REQ-ID: 006
 Description: The system shall allow the user to provide a range of dates and a range of times.
