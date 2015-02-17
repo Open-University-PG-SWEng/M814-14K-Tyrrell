@@ -17,6 +17,7 @@ Description: The system shall allow the selection of payment type
 Type: Functional 
 Rationale: As part of the processing of the completed treatment record, the payment method needs selected from predefined options.
 Originator: James Birkley
+Duplicates: 015
 
 REQ-ID: 008
 Description: The system shall allow the input of data from a treatment record
@@ -56,13 +57,6 @@ Type: Functional
 Rationale: This will give the authority to receptionists and Carol (Office manager) to update the appointment data.
 Originator: Carol, office manager
 Comments: Shunsuke Yanome
-
-REQ-ID: 015
-Description: The system shall allow the user to select whether payment is taken or a health insurer invoice should be made
-Type: Functional, business requirement
-Rationale: Upon accepting a treatment record form, the receptionist needs to take payment immediately or arrange for an insurance invoice to be generated.
-Originator: Carol, office manager
-Comments: Steven Malley
 
 REQ-ID: 018
 Type: Functional
