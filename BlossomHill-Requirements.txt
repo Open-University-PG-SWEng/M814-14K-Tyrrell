@@ -110,14 +110,6 @@ Description: The system shall allow for recording that treatment has been paid f
 Type: Functional
 Rationale: The business needs to know when treatment has been paid for and this can be paid for in person.
 Originator: Office Manager
-
-Commencts : Andre Russell
-
-REQ-ID: 028
-Description: The product shall allow for searching for free appointments from a specified amount of time in the future.
-Type: Functional
-Rationale: The patient may need further treatment but only after an amount of time in the future so the system should offer only dates and times after this time has elapsed.
-Originator: Office Manager
 Comments : Andre Russell
 
 REQ-ID: 029
