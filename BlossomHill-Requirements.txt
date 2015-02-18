@@ -45,20 +45,6 @@ Rationale: This will allow patients to remember their appointment and see when t
 Originator: Carol, office manager
 Comments: Lawrence Craft
 
-REQ-ID: 013
-Description: The system shall has an access rights to make or change appointments.
-Type: Functional
-Rationale: This will give the authority to receptionists and Carol (Office manager) to update the appointment data.
-Originator: Carol, office manager
-Comments: Shunsuke Yanome
-
-REQ-ID: 014
-Description: The system shall has the function to confirm the availability of therapists.
-Type: Functional
-Rationale: This will allows the receptionists to help arranging each terapists have a full appointments.
-Originator: Carol, office manager
-Comments: Shunsuke Yanome
-
 REQ-ID: 015
 Description: The system shall allow the user to select whether payment is taken or a health insurer invoice should be made
 Type: Functional, business requirement
