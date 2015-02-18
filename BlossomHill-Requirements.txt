@@ -19,12 +19,6 @@ Type: Functional
 Rationale: As part of the processing of the completed treatment record, the payment method needs selected from predefined options.
 Originator: James Birkley
 
-REQ-ID: 008
-Description: The system shall allow the input of data from a treatment record
-Type: Functional
-Rationale: To be able to enter all of the patients treatment information from a compleated treatment record into the system.
-Originator: James Birkley
-
 REQ-ID: 009
 Description: There must be several layers of permisions on the system.
 Type: Functional
