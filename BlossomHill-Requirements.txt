@@ -1,85 +1,149 @@
-REQ-ID:
-Description:
-Type:
-Rationale:
-Originator:
-Comments: [M814-ModuleChair] Copy this template below to add new requirements.
+Requirements Needed
 
-REQ-ID:001
+REQ-ID: 001
 Description: The product shall accept a patient identifier.
-Type: Functional
-Rationale: To be able to uniquely identify every patient.
-Originator: Carol, Office Manager 
-Comments:[Mohammed Ngum]
+Reason to Keep: Having one instance of a patient avoids accidental creation of different patients due to mis-spelling of names.
 
-REQ-ID:002
+REQ-ID: 002
 Description: The product shall determine the free appointment slots for a therapist.
-Type: Functional
-Rationale: To be able to offer appointment slots to see a therapist.
-Originator: Carol, Office Manager
-Comments:[Mohammed Ngum]
-
-REQ-ID: 003
-Description: The product shall be able to accept a scheduling date.
-Type: Functional
-Rationale: To be able to find and book an available slot, the product needs as an input an approximative date for next appointment.
-Originator: Carol, Office Manager
-
-REQ-ID: 004
-Description: The product shall be able to accept a known therapist name.
-Type: Functional
-Rationale: To be able to find a therapist free slot within a session.
-Originator: Carol, Office Manager
-
+Reason to Keep: Important to see what appointment slots are available to the user.
 
 REQ-ID: 005
 Description: The system shall allow the user to identify treatment type and physiotherapist.
-Type: Functional
-Rationale: The combination of required treatment type and physiotherapist will allow the system to identify available sessions.
-Originator: Dean Armitage
-
-REQ-ID: 006
-Description: The system shall allow the user to provide a range of dates and a range of times.
-Type: Functional
-Rationale: The provision of a a range of dates and a range of times will allow the system to further identify available sessions.
-Originator: Dean Armitage
-
-REQ-ID: 007
-Description: The system shall allow the selection of payment type
-Type: Functional 
-Rationale: As part of the processing of the completed treatment record, the payment method needs selected from predefined options.
-Originator: James Birkley
+Tentative Keep: Would need to be checked if all physiotherapists can do all types of treatment
 
 REQ-ID: 008
 Description: The system shall allow the input of data from a treatment record
-Type: Functional
-Rationale: To be able to enter all of the patients treatment information from a compleated treatment record into the system.
-Originator: James Birkley
-
-
-REQ-ID: 007
-Type: Functional
-Description: The product shall identify the patient
-Rationale: To be able to keep an up-to-date and accurate patient treatment record
-Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
-Comments: Emma Hastings
-
-
-REQ-ID: 008
-Type: Functional
-Description: The product shall record the patient’s next appointment
-Rationale: To be able to keep an up-to-date appointments list
-Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
-Comments: Emma Hastings
+Reason to Keep: Important all information on a record form is complete on the system as well
 
 REQ-ID: 009
 Description: There must be several layers of permisions on the system.
-Type: Functional
-Rationale: This is as not all users can make add/modify bookings, so there must be a level of permisions to the system (at least one level for making/changing apointments and another for viewing bookings only). 
-Originator: Joseph Souter
+Reason to Keep: There are many users on the system and the receptionist will have to be verified to ensure only the correct people are making appointments.
+
+REQ-ID: 014
+Description: The system shall has the function to confirm the availability of therapists.
+Reason to Keep: Prevent double booking of therapists
+
+REQ-ID: 015
+Description: The system shall allow the user to select whether payment is taken or a health insurer invoice should be made
+Reason to Keep: Booking could be from previous appointment so it is important payment is made
+
+REQ-ID:	023
+Description: The product shall inform the accounts systems that an treatment has been completed
+Reason to Keep: Booking could be from previous appointment so it is important payment is made. Similar to REQ-ID: 015, however first it must be recorded a treatment has been completed (could have been missed)
+
+REQ-ID: 025
+Description: The system shall have the capability to accept payment for the completed treatment 
+Reason to Keep: Booking could be from previous appointment so it is important payment is made. Similar to REQ-ID: 015, but selecting a payment is not the same as confirming it has been made.
+
+REQ-ID: 030
+Description: The system should store additional entries and amendments to existing entries in chronological order.
+Reason to Keep: Ease of viewing which slots have and have not been taken.
+
+REQ-ID: 031
+Description: The product will allow input of completed treatment for patient
+Reason to Keep: Booking could be from previous appointment so it is important to build a complete patient record history.
+
+REQ-ID: 032
+Description: The product will display specific therapist schedule
+Reason to Keep: Important to build the therapy schedule. Similar to Req-ID: 002, but important to build the entire schedule first (and then later filter to only free slots)
+
+REQ-ID: 034
+Description: The system shall record a new appointment booking
+Reason to Keep: The new appointment needs to be made to the system.
+
+
+
+Requirements Deleted
+
+REQ-ID: 003
+Description: The product shall be able to accept a scheduling date.
+Deleted For: Similar to REQ-ID: 002 and 032
+
+REQ-ID: 004
+Description: The product shall be able to accept a known therapist name.
+Deleted For: Similar to RED-ID: 014 (14 better captures what is needed, when therapists are free)
+
+REQ-ID: 006
+Description: The system shall allow the user to provide a range of dates and a range of times.
+Deleted For: Similar to REQ-ID: 002
+
+REQ-ID: 007
+Description: The system shall allow the selection of payment type
+Deleted For: Similar to REQ-ID: 015 (15 captures what is needed better)
 
 REQ-ID: 010
 Description: The system must track the number of times a patient fails to attend an appointment.
-Type: Functional
-Rationale: This is so the Clinic can track repeat offenders and so first time offenders are not charged for missing their first appointment.
-Originator: Joseph Souter
+Deleted For: Feature creep (while adding this can help prevent possible no shows at the start of the chain (allows receptionists to mark as a possible risk appointment) this has not been stated by the clinic as a possible feature)
+
+REQ-ID: 011
+Description: The system must show a comparison of no-show statistics between two requested time periods.
+Deleted For: Similar to REQ-ID: 010 (Also deleted)
+
+REQ-ID: 012
+Description: The system must expose an HTTP interface allowing patients to see their existing bookings.
+Deleted For: Not strictly part of the scenerio
+
+REQ-ID: 013
+Description: The system shall has an access rights to make or change appointments.
+Deleted For: Similar to REQ-ID: 009 and not strictly part of the scenerio
+
+REQ-ID: 016
+Description: The system shall accept the time interval (in days, weeks or months) before the next appointment
+Deleted For: Looks redundent as would be part of the confirming next appointment (not mentioned in interview either). Possible feature creep
+
+REQ-ID: 017
+Description: The product shall identify the patient
+Deleted For: Similar to REQ-ID: 001
+
+REQ-ID: 018
+Description: The product shall record the patients next appointment
+Deleted For: Similar to REQ-ID: 034 (034 worded better, might be a first appointment)
+
+REQ-ID: 019
+Description: The system shall prompt the user for their insurance details
+Deleted For: Similar to REQ-ID: 015
+
+REQ-ID: 020
+Description: The system shall allow time periods for availability of therapists to be customised
+Deleted For: Cannot see an ability to customisation of sessions in the interview
+
+REQ-ID: 021
+Description: The product shall record how long it should be before the next appointment.
+Deleted For: Similar to REQ-ID: 016 (Also deleted), possible feature creep
+
+REQ-ID: 022
+Description: The product shall record the payment due for the treatment.
+Deleted For: Similar to RED-ID: 015
+
+REQ-ID: 024
+Description: the product shall generate artefacts containing the appointment details
+Deleted For: Not part of the scenerio in question
+
+REQ-ID: 026
+Description: The system shall have the capability to search for available appointments using specific parameters
+Deleted For: Similar to REQ-ID: 002
+
+REQ-ID: 027
+Description: The system shall allow for recording that treatment has been paid for when the patient pays the receptionist directly.
+Deleted For: Similar to RED-ID: 015 (more of a follow up to 15)
+
+REQ-ID: 028
+Description: The product shall allow for searching for free appointments from a specified amount of time in the future.
+Deleted For: Similar to REQ-ID: 002
+
+REQ-ID: 029
+Description: The system should be able to uniquely identify all users and patients
+Deleted For: Similar to REQ-ID: 001
+
+REQ-ID:033
+Description:The system shall determine the free appointment slots
+Deleted For: Similar to REQ-ID: 002
+
+REQ-ID: 035
+Description: The system should present read only appointment information to patients via a website
+Deleted For: Not strictly part of the scenerio as is coming from a patient handing in a form to a receptionist (who can make changes)
+
+REQ-ID: 036
+Description: The system must track rota information for therapists including holiday scheduling.  
+Deleted For: Similar to REQ-ID: 002 (Would be part of checking available therapists)
