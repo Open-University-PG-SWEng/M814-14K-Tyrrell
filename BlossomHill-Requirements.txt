@@ -5,6 +5,8 @@ Rationale: To be able to offer appointment slots to see a therapist.
 Originator: Carol, Office Manager
 Comments:[Mohammed Ngum]
 
+Duplicates: 014, 028, 033, 036
+
 REQ-ID: 003
 Description: The product shall be able to accept a scheduling date.
 Type: Functional
