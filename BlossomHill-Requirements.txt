@@ -7,12 +7,6 @@ Comments:[Mohammed Ngum]
 
 Duplicates: 014, 028, 033, 036
 
-REQ-ID: 003
-Description: The product shall be able to accept a scheduling date.
-Type: Functional
-Rationale: To be able to find and book an available slot, the product needs as an input an approximative date for next appointment.
-Originator: Carol, Office Manager
-
 REQ-ID: 004
 Description: The product shall be able to accept a known therapist name.
 Type: Functional
