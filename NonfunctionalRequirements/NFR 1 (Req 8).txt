@@ -1,0 +1,9 @@
+REQ-ID: NFR001
+Description: The product shall ensure that only an authorised user has access to input or completed treatment record details for the identified patient
+Type: Security
+Rationale: To prevent unauthorised users from being able to input new patient treatment records, or amend existing patient treatment records within the product
+Fit Criterion: For 100 completed treatment records, none of the records will be from anyone other than Level 1 (admin) or Level 2 (receptionist)
+Originator: Office Manager
+Comments: [Darren Bates]
+
+
