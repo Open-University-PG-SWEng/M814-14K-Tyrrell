@@ -1,0 +1,7 @@
+REQ-ID:001
+Description: The product shall identify a patient fast enough.
+Type: Non-Functional
+Rationale: When the system receives a signal to  uniquely identify a patient, the response should be fast to avoid interrupting user's flow process.
+Fit Criterion: The response from the system when identifying a patient must be less than 5 seconds for 95 percent of the requests and in any case no more than 10 seconds
+Originator: Carol, Office Manager 
+Comments: [AlvaroAcevedo]
