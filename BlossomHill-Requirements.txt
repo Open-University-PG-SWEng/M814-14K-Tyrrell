@@ -4,49 +4,49 @@ and also some non-functional requirements. In order that these requirements are 
 numbering system has been adopted. Those functional requirements that met the original remit are prefixed with the letter A, those that did not are 
 prefixed with the letter B and those that are deemed to be NFRs are prefixed with the letter C.
 
-REQ-ID:A001
+REQ-ID:A001 (Alvaro Acevedo)
 Description: The product shall accept a patient identifier.
 Type: Functional
 Rationale: To be able to uniquely identify every patient.
 Originator: Carol, Office Manager / Mohammed Ngum /Emma Hastings
 Comments:Amalgamates requirements 001/017/029
 
-REQ-ID:A002
+REQ-ID:A002 (Mohammed Ngum)
 Description: The product shall determine the free appointment slots for a therapist.
 Type: Functional
 Rationale: To be able to offer appointment slots to see a therapist.
 Originator: Carol, Office Manager / Mohammed Ngum / Shunsuke Yanome / Lisa Li
 Comments:Amalgamates requirements 002/014/033
 
-REQ-ID: A003
+REQ-ID: A003 (Dean Armitage)
 Description: The product shall allow the user to provide a range of dates and a range of times.
 Type: Functional
 Rationale: The provision of a range of dates and a range of times will allow the system to identify free appointment slots acceptable to the patient
 Originator: Carol, Office Manager / Dean Armitage / Andre Russell / Gerard Corrigan
 Comments: Amalgamates requirements 003/006/026/028
 
-REQ-ID: A004
+REQ-ID: A004 (James Birkley)
 Description: The product shall allow the user to identify treatment type and physiotherapist.
 Type: Functional
 Rationale: The combination of required treatment type and physiotherapist will allow the system to identify available sessions.
 Originator: Carol, Office Manager / Dean Armitage / Gerard Corrigan / Darren Bates
 Comments: Amalgamates requirements 004/005/026/032
 
-REQ-ID: A005
+REQ-ID: A005 (Iain Sproat)
 Description: The system must track rota information for therapists including holiday scheduling.  
 Type: Functional
 Rationale: This data is required within the system to allow scheduling of appointments only when the therapists are available 
 Originator: Carol, Office Manager / Dan Page / Iain Sproat
 Comments: Amalgamates requirements 020/036
 
-REQ-ID: A006
+REQ-ID: A006 (Steven Malley)
 Description: The system shall accept the time interval (in days, weeks or months) before the next appointment
 Type: Functional, business requirement
 Rationale: The patient's next appointment should follow an interval advised by the therapist; the system could calculate the date that follows this interval rather than relying on the receptionist to consult a calendar and input the date
 Originator: Carol, office manager / Steven Malley / Steven Smith
 Comments: Amalgamates requirements 016/021
 
-REQ-ID: A007
+REQ-ID: A007 (Lisa Li)
 Type: Functional
 Description: The product shall record the patients next appointment
 Rationale: To be able to keep an up-to-date appointments list
@@ -61,14 +61,14 @@ Originator: Carol
 Comments: Prem Bhatkar
 Comments:Adapted from 024
 
-REQ-ID: A009
+REQ-ID: A009 (Shunsuke Yanome)
 Description: The product shall have the capability to accept payment for the completed treatment 
 Type: Functional
 Rationale: The business needs to receive payment for completed treatments.
 Originator: Gerard Corrigan
 Comments: Adapted from requirement 025
 
-REQ-ID: A010
+REQ-ID: A010 (Andy Russell)(Emma Hastings)
 Description: The product shall allow the selection of payment type
 Type: Functional 
 Rationale: As part of the processing of the completed treatment record, the payment method needs selected from predefined options.
@@ -90,7 +90,7 @@ Originator: David
 Comments: Prem Bhatkar
 Comments: Adapted from requirement 023
 
-REQ-ID: A013
+REQ-ID: A013 (Darren Bates)
 Description: The system shall allow the input of data from a treatment record
 Type: Functional
 Rationale: To be able to enter all of the patients treatment information from a compleated treatment record into the system.
