@@ -1,4 +1,4 @@
-REQ-ID:001
+REQ-ID:NFR002
 Description: The product shall identify a patient fast enough.
 Type: Non-Functional
 Rationale: When the system receives a signal to  uniquely identify a patient, the response should be fast to avoid interrupting user's flow process.
