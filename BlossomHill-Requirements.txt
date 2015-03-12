@@ -1,10 +1,3 @@
-REQ-ID:
-Description:
-Type:
-Rationale:
-Originator:
-Comments: [M814-ModuleChair] Copy this template below to add new requirements.
-
 REQ-ID:001
 Description: The product shall accept a patient identifier.
 Type: Functional
@@ -30,7 +23,6 @@ Description: The product shall be able to accept a known therapist name.
 Type: Functional
 Rationale: To be able to find a therapist free slot within a session.
 Originator: Carol, Office Manager
-
 
 REQ-ID: 005
 Description: The system shall allow the user to identify treatment type and physiotherapist.
@@ -90,36 +82,49 @@ Rationale: This will give the authority to receptionists and Carol (Office manag
 Originator: Carol, office manager
 Comments: Shunsuke Yanome
 
-REQ-ID: 018
+REQ-ID: 014
 Type: Functional
 Description: The product shall record the patients next appointment
 Rationale: To be able to keep an up-to-date appointments list
 Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
 Comments: Emma Hastings
 
-REQ-ID: 019
+REQ-ID: 015
 Type: Functional
 Description: The system shall prompt the user for their insurance details
 Rationale: The user may wish to arrange payment via their private health insurance company.
 Originator: Iain Sproat
 Comments: No insurance details would be a valid option, resulting in payment by the patient
 
-REQ-ID: 020
+REQ-ID: 016
 Type: Functional
 Description: The system shall allow time periods for availability of therapists to be customised
 Rationale: The system should allow annual leave, sickness, working from another clinic, or other period of absence to be recorded so only valid appointments are presented to the patient.
 Originator: Iain Sproat
 
-REQ-ID: 021
+REQ-ID: 017
 Description: The product shall record how long it should be before the next appointment.
 Type: Functional
 Rationale: To determine an appropriate period for the patient's next appointment. 
 Originator: Carol, Office Manager
 Comments: [Steven Smith]
 
-REQ-ID: 022
+REQ-ID: 018
 Description: The product shall record the payment due for the treatment.
 Type: Functional
 Rationale: To determine what payment should be collected from the patient or the insurer. 
 Originator: Carol, Office Manager
 Comments: [Steven Smith]
+
+
+Changes:
+requirements 1 & 17 merged
+requirements 2 & 14 merged
+requirements 3 & 16 merged
+requirements 7 & 15 merged
+
+renumbered 18 -> 14
+renumbered 19 -> 15
+renumbered 20 -> 16
+renumbered 21 -> 17
+renumbered 22 -> 18
