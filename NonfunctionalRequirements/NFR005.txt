@@ -1,0 +1,10 @@
+REQ-ID:005
+Description:The system will identify available sessions quickly.
+Type:Performance
+Rationale:Patients do not want to have to wait a long time before an appointment can be
+made or re-arranged.
+Fit Criterion:The user shall be able to identify available sessions within 2 seconds
+Originator:Receptionist
+Comments: [CR]
+
+
