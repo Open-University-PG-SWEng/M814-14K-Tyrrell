@@ -1,0 +1,6 @@
+REQ-ID: NFR06 -> REQ-ID: 032 - The product will display specific therapist schedule
+Description: The product will only display specific therapists schedules to authorised members of staff.
+Type: Security
+Rationale: Staff are permitted to access all data on the system, where as patients can only access their own information.
+Fit Criterion: The system authenticates the authorised member of staff and grants them access to the therapist schedule (and does not grant access to non-authorised members of staff).
+Originator: [M814-JS] Joseph Souter

@@ -1,0 +1,10 @@
+REQ-ID: NFR005-DA
+Description: The product shall allow date entry  only through a date selection mechanism. Free-format date entry shall not be permitted.
+Type:10 Look and Feel
+     11 Usability and Humanity
+Rationale:Different users may attempt to enter dates in differing formats. Restricting date entry to a date selection mechanism ensures consistency of date formatting.
+Fit Criterion: Whenever the product is focussed on a date entry field, a date selection mechanism shall be presented to the user allowing the user to select a date. The mechanism shall allow the user to scroll through months and years or key in the same to allow the date selection mechanism to focus on a specific month. Free-format entry of dates will not be possible.
+Originator:Dean Armitage [DA]
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
