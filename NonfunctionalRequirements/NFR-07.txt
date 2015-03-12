@@ -1,0 +1,10 @@
+REQ-ID: NFR007
+Description: The project should display therapist name in a large clear font
+Type: Look and feel
+Rationale: Make the selection of a therapist name easy so there is less chance of a therapist being selected incorrectly
+Fit Criterion: Correct therapist is selectable within 5 seconds
+Originator: James Birkley
+Comments: [M814-JamesBirkley]
+Non functional requirement derived from the function requirement: REQ-ID 004 The product shall be able to accept a known therapist name
+
+

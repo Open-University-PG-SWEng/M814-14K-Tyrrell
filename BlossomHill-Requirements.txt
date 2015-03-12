@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 REQ-ID:001 
 Description: The product shall accept a patient identifier. 
 Type: Functional 
@@ -223,3 +224,135 @@ Originator: Carol, Office Manager
 Comments: Dan Page 
 
 
+=======
+REQ-ID:001
+Description: The product shall accept a patient identifier.
+Type: Functional
+Rationale: To be able to uniquely identify every patient.
+Originator: Carol, Office Manager 
+Comments:[Mohammed Ngum]
+
+REQ-ID:002
+Description: The product shall determine the free appointment slots for a therapist.
+Type: Functional
+Rationale: To be able to offer appointment slots to see a therapist.
+Originator: Carol, Office Manager
+Comments:[Mohammed Ngum]
+
+REQ-ID: 003
+Description: The product shall be able to accept a scheduling date.
+Type: Functional
+Rationale: To be able to find and book an available slot, the product needs as an input an approximative date for next appointment.
+Originator: Carol, Office Manager
+
+REQ-ID: 004
+Description: The product shall be able to accept a known therapist name.
+Type: Functional
+Rationale: To be able to find a therapist free slot within a session.
+Originator: Carol, Office Manager
+
+REQ-ID: 005
+Description: The system shall allow the user to identify treatment type and physiotherapist.
+Type: Functional
+Rationale: The combination of required treatment type and physiotherapist will allow the system to identify available sessions.
+Originator: Dean Armitage
+
+REQ-ID: 006
+Description: The system shall allow the user to provide a range of dates and a range of times.
+Type: Functional
+Rationale: The provision of a a range of dates and a range of times will allow the system to further identify available sessions.
+Originator: Dean Armitage
+
+REQ-ID: 007
+Description: The system shall allow the selection of payment type
+Type: Functional 
+Rationale: As part of the processing of the completed treatment record, the payment method needs selected from 
+predefined options (cash or insurance company invoice).
+Originator: James Birkley
+
+REQ-ID: 008
+Description: The system shall allow the input of data from a treatment record
+Type: Functional
+Rationale: To be able to enter all of the patients treatment information from a compleated treatment record into the system.
+Originator: James Birkley
+
+REQ-ID: 009
+Description: There must be several layers of permisions on the system.
+Type: Functional
+Rationale: This is as not all users can make add/modify bookings, so there must be a level of permisions to the system (at least one level for making/changing apointments and another for viewing bookings only). 
+Originator: Joseph Souter
+
+REQ-ID: 010
+Description: The system must track the number of times a patient fails to attend an appointment.
+Type: Functional
+Rationale: This is so the Clinic can track repeat offenders and so first time offenders are not charged for missing their first appointment.
+Originator: Joseph Souter
+
+REQ-ID: 011
+Description: The system must show a comparison of no-show statistics between two requested time periods.
+Type: Functional
+Rationale: This will allow the clinic to analyse the effect different approaches to reducing no-shows had on the no-show percentage.
+Originator: Carol, office manager
+Comments: Lawrence Craft
+
+REQ-ID: 012
+Description: The system must expose an HTTP interface allowing patients to see their existing bookings.
+Type: Functional
+Rationale: This will allow patients to remember their appointment and see when they booked their appointment.
+Originator: Carol, office manager
+Comments: Lawrence Craft
+
+REQ-ID: 013
+Description: The system shall has an access rights to make or change appointments.
+Type: Functional
+Rationale: This will give the authority to receptionists and Carol (Office manager) to update the appointment data.
+Originator: Carol, office manager
+Comments: Shunsuke Yanome
+
+REQ-ID: 014
+Type: Functional
+Description: The product shall record the patients next appointment
+Rationale: To be able to keep an up-to-date appointments list
+Originator: receptionists (Emily, Dawn and Sally) and the office manager (Carol)
+Comments: Emma Hastings
+
+REQ-ID: 015
+Type: Functional
+Description: The system shall prompt the user for their insurance details
+Rationale: The user may wish to arrange payment via their private health insurance company.
+Originator: Iain Sproat
+Comments: No insurance details would be a valid option, resulting in payment by the patient
+
+REQ-ID: 016
+Type: Functional
+Description: The system shall allow time periods for availability of therapists to be customised
+Rationale: The system should allow annual leave, sickness, working from another clinic, or other period of absence to be recorded so only valid appointments are presented to the patient.
+Originator: Iain Sproat
+
+REQ-ID: 017
+Description: The product shall record how long it should be before the next appointment.
+Type: Functional
+Rationale: To determine an appropriate period for the patient's next appointment. 
+Originator: Carol, Office Manager
+Comments: [Steven Smith]
+
+REQ-ID: 018
+Description: The product shall record the payment due for the treatment.
+Type: Functional
+Rationale: To determine what payment should be collected from the patient or the insurer. 
+Originator: Carol, Office Manager
+Comments: [Steven Smith]
+
+
+Changes:
+requirements 1 & 17 merged
+requirements 2 & 14 merged
+requirements 3 & 16 merged
+requirements 7 & 15 merged
+
+renumbered 18 -> 14
+renumbered 19 -> 15
+renumbered 20 -> 16
+renumbered 21 -> 17
+renumbered 22 -> 18
+>>>>>>> jbirkley-branch
