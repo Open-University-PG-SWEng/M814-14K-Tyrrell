@@ -1,0 +1,9 @@
+REQ-ID: NFR007
+Description: The system shall have the server authentication to protect patient's personal data.
+Type: Security
+Rationale: The online payment transactions needs to ensure the reliability for patients because it inclues patient's personal data.
+Fit Criterion: The server authentication by using the latest techniques of data encryption.
+Originator: Shunsuke Yanome [SH]
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+
+
