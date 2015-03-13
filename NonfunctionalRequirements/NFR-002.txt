@@ -2,5 +2,5 @@ REQ-ID – NFR-002
 Description: The product shall be quick in determining the free appointment slots for a therapist
 Type: 12
 Rationale: So that the users can be efficient in their work
-Fit Criterion: The product shall take no longer than 3 seconds to determine the free appointment slots for a therapist for 90 percent of the attempts and never take more than 10 seconds
+Fit Criterion: For 90 percent of the attempts, the product shall take no longer than 3 seconds to determine the free appointment slots for a therapist. And never take more than 10 seconds.
 Comments:[MN] Non-functional requirement associated with functional requirement 002
