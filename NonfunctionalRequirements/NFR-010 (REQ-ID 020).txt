@@ -1,0 +1,11 @@
+REQ-ID:NFR010
+Description:The system must ensure the user has authorisation to update therapist schedules.  Priveleges to update therapist schedules should only be available to Therapists, Receptionists and Office Managers.
+Type: Security
+Rationale: Therapist schedules should not be editable by any other than authorised staff of the clinic.  Vectors allowing abuse to the appointments schedule should be minimised.
+Fit Criterion:  For 100 updates to therapist schedules, 100 of which shall have been carried out by users with security roles which include the privelege to update therapist schedules.
+Originator: Iain Sproat
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[is] complementary to functional requirement REQ-ID 020 : The system shall allow time periods for availability of therapists to be customised
+
+
+
