@@ -4,6 +4,7 @@ Type: Usability
 Rationale: The receptionist will need to find an appropriate date for the patient’s next appointment without delay
 Fit Criterion: Eighty percent of a panel that is representative of the receptionists will be able to enter a specified number and select a specified time period within 15 seconds.
 Originator: Steven Malley
+Comments: relates to REQ-ID016 (The system shall accept the time interval (in days, weeks or months) before the next appointment)
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 
