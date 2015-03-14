@@ -4,3 +4,5 @@ Type: 12
 Rationale: So that the users can be efficient in their work
 Fit Criterion: For 90 percent of the attempts, the product shall take no longer than 3 seconds to determine the free appointment slots for a therapist. And never take more than 10 seconds.
 Comments:[MN] Non-functional requirement associated with functional requirement 002
+
+[prem bhatkar] where do the numbers in fit criterion come from? (agreed?) assumptions? other systems? etc 

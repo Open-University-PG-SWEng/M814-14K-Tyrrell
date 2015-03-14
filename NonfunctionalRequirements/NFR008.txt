@@ -7,4 +7,5 @@ Originator: Steven Malley
 Comments: relates to REQ-ID016 (The system shall accept the time interval (in days, weeks or months) before the next appointment)
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
+[prem bhatkar] fit criterion ok to me.
 

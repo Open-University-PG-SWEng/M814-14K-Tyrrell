@@ -6,4 +6,6 @@ Fit Criterion: For 100 completed treatment records, none of the records will be 
 Originator: Office Manager
 Comments: [Darren Bates]
 
+[Prem Bhatkar] 100 records as a test or 100% records on an ongoing basis.
+
 

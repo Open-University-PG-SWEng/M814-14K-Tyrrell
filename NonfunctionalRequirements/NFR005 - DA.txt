@@ -7,4 +7,6 @@ Fit Criterion: Whenever the product is focussed on a date entry field, a date se
 Originator:Dean Armitage [DA]
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
+[prem bhatkar] agree with fit criterion 
+
 

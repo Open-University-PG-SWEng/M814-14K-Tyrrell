@@ -5,3 +5,5 @@ Rationale: To provide a seamless user experience when booking a new appointment.
 Fit Criterion: The response from the system when saving the new appointment must be within 2 second for 98 percent of the requests.
 Originator: Receptionist 
 Comments: [ Lisa Li ]
+
+[prem bhatkar] why 2 seconds and 98%? what the upper allowable boundary for the remaining 2%?

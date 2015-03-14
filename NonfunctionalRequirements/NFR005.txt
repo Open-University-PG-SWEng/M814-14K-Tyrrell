@@ -7,4 +7,5 @@ Fit Criterion:The user shall be able to identify available sessions within 2 sec
 Originator:Receptionist
 Comments: [CR]
 
+[prem bhatkar] 2 secs 100% of the time? doesnt leave room for failure
 
