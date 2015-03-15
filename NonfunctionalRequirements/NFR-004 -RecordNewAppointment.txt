@@ -8,3 +8,5 @@ Comments: [ Lisa Li ]
 
 [prem bhatkar] why 2 seconds and 98%? what the upper allowable boundary for the remaining 2%?
 [Andy Russell] Agree we need to know what should happen in the other 2% of cases.
+[Iain Sproat] I assume this is 2 seconds from the user pressing a 'submit' button with fully valid data already entered into the form?
+[Iain Sproat] I assume the required response in this test should be either 'accepted' or 'rejected' (with the reason for rejection); error messages or holding messages (e.g. 'processing request') are presumably not responses from the system which we would want to be accepted by the fit criterion.
