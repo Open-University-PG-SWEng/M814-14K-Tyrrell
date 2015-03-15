@@ -10,3 +10,4 @@ Added an extra comment
 
 [prem bhatkar] 5 secs 100% of the time? or is it a measure of accuracy, 90% of the time the correct therapist should be selected
 [Andy Russell] 'Large clear font' suggests a solution. Need to allow for some failure or delay.
+[Iain Sproat] This suggests a solution.  I assume the 5 seconds is based on an able-bodied individual carrying out the test? (and not a blind person using a screen reader, which may take longer than 5 seconds without being a failure of the system).  Is 5 sec the mean, median or 95th percentile of a normal distribution etc.?
