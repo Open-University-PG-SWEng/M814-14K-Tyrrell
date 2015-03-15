@@ -10,3 +10,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [prem bhatkar] agree with fit criterion 
 [Andy Russell] I think we're at risk of suggesting a solution, as it mentions scrolling through date and a date entry field. I think this should be left until implementation of the product.
 [Iain Sproat] I agree with Andy's comments, it might constrain acceptance to a particular solution.  The method of complying with the fit criterion should be as open as possible.  There may be different mechanisms for entering dates used by disabled users, blind people etc., which should be possible to be accepted as valid solutions.
+[Steven Smith] I also agree that this appears to be offering a solution as opposed to specifing a numeric method of measuring the quality of this requirement.

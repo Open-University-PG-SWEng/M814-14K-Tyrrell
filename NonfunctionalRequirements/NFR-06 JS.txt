@@ -8,3 +8,4 @@ Originator: [M814-JS] Joseph Souter
 [prem bhatkar] fit criterion ok for me
 [Andy Russell] Agreed it looks fine.
 [Iain Sproat] Should there be numeric criteria as part of the FC?  e.g. of x requests, x will be from authorised....  Or, vice versa - of x attempts zero will be from non-authorised...
+[Steven Smith] I agree with Iain on trying to achieve a numeric criteria.  However, as this is a security requirement, you could argue that the fit criteria should be for 100% correct authentication.  You wouldn't feel the requirement was fit if it only authenticated successfully 95% of the time.
