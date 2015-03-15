@@ -21,3 +21,4 @@ Comments:	[Prem Bhatkar] relates to FR "The product shall inform the accounts sy
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Andy Russell] All ok by me.
+[Iain Sproat] Is there part of the description missing?  The description currently only states "the product will".
