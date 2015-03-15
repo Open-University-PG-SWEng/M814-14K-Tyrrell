@@ -7,5 +7,5 @@ Originator: Office Manager
 Comments: [Darren Bates]
 
 [Prem Bhatkar] 100 records as a test or 100% records on an ongoing basis.
-
+[Andy Russell] I think this should be 100% of records during testing.
 
