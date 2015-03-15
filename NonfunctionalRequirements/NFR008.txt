@@ -9,3 +9,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 
 [prem bhatkar] fit criterion ok to me.
 [Andy Russell] Looks great to me.
+[Iain Sproat] Looks good, thought I'm not entirely clear on the phrase 'enter a specified number'.  Do you mean the number/value of the duration?  And by 'select a specified time period', you mean select whether that number is days/weeks/months etc.?
