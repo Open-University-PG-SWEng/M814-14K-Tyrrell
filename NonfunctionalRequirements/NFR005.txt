@@ -9,3 +9,7 @@ Comments: [CR]
 
 [prem bhatkar] 2 secs 100% of the time? doesnt leave room for failure
 [Andy Russell] Agree we need to allow for outliers.
+[Iain Sproat] Is 2 seconds the mean, median or 95% percentile of a normal distribution? (i.e. what about outliers as Prem & Andy have pointed out)
+[Iain Sproat] Over what duration will available sessions be identified; on a particular day, week or other time frame?  If the system is searching over an undefined time frame it may never finish calculating!
+[Iain Sproat] The fit criterion might be changed to instead shift focus from 'the user' to the system e.g. 'the system shall display'.  It currently seems to test the ability of the user, rather than the performance of the system.
+[Iain Sproat] Also this has a clashing NFR ID number with another NFR005.
