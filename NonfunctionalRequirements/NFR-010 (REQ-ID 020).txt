@@ -1,16 +1,19 @@
 REQ-ID:NFR010
 Description:The system must ensure the user has authorisation to update therapist schedules.  Priveleges to update therapist schedules should only be available to Therapists, Receptionists and Office Managers.
-Type: Security
+Type: 15a Security Requirements/Access Requirements
 Rationale: Therapist schedules should not be editable by any other than authorised staff of the clinic.  Vectors allowing abuse to the appointments schedule should be minimised.
 Fit Criterion:  For 100 attempts by users without correct priveleges, or external parties not authorised by the system, to update therapist schedules there shall be zero successes.
 Originator: Iain Sproat
 History:
 v1.0 created
 v2.0 revised fit criterion to focus on testing through attacks to the system.
+v3.0 Changed type to match Volere sub-categories
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
-[is] complementary to functional requirement REQ-ID 020 : The system shall allow time periods for availability of therapists to be customised
+[Iain Sproat] complementary to functional requirement REQ-ID 020 : The system shall allow time periods for availability of therapists to be customised
 
 
 
 [prem bhatkar] fit criterion to to me.
 [Andy Russell] ok by me.
+[Iain Sproat] The above comments related to v1.0.
+[Steven Smith]  What assumptions made you decide on 100 attempts?

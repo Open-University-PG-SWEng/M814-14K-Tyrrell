@@ -6,4 +6,5 @@ Fit Criterion: A trained user of the system shall be able to understand how to s
 Originator: Requirement : Office Manager,Requirement Creator : James Birkley, NFR : Andy Russell
 Comments: 
 
-
+[Iain Sproat]  What level and duration of training for the user?  Is 'trained user' necessary if the criteria is for 'the first time they use the system without any help'?  What percentage of attempts are expected within 15 seconds?  What about outliers?
+[Steven Smith] Why 15 seconds? What assumptions is this based on?

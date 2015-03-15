@@ -8,3 +8,6 @@ Comments: [AlvaroAcevedo]
 
 [prem bhatkar] fit criterion ok to me.
 [Andy Russell] agree this looks fine.
+[Iain Sproat] What is a suitable response?  accepted?, rejected, with the reason for rejected?  Probably not a holding response e.g. 'processing your request', nor a system error message.
+[Iain Sproat] Aside, the NFR ID clashes with the other NFR002.
+[Steven Smith] On what assumptions did you decide 5 seconds, 95 percent and no more than 10 seconds?

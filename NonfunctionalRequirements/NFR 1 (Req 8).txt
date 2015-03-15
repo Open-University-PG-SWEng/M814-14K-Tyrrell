@@ -9,4 +9,6 @@ Comments: [Darren Bates]
 [Prem Bhatkar] 100 records as a test or 100% records on an ongoing basis.
 [Andy Russell] I think this should be 100% of records during testing.
 [Iain Sproat] Therapist may also be a role which requires access to the record.  The words 'will be from' in the fit criterion seems to suggest it tests the creator of the records only, not updaters of records; perhaps different wording?
+[Steven Smith]  Would the patients need a security level? Where does the figure 100 come from?
+
 

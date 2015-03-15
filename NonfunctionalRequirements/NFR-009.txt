@@ -21,3 +21,5 @@ Comments:	[Prem Bhatkar] relates to FR "The product shall inform the accounts sy
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 [Andy Russell] All ok by me.
+[Iain Sproat] Is there part of the description missing?  The description currently only states "the product will".
+[Steven Smith] Agree with Iain on missing description.  Basis for assumptions for 2 concurrent users rising to 3 concurrent users within 1 year would be useful.
