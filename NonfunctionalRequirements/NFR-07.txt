@@ -12,3 +12,4 @@ Added an extra comment
 [Andy Russell] 'Large clear font' suggests a solution. Need to allow for some failure or delay.
 [Iain Sproat] This suggests a solution.  I assume the 5 seconds is based on an able-bodied individual carrying out the test? (and not a blind person using a screen reader, which may take longer than 5 seconds without being a failure of the system).  Is 5 sec the mean, median or 95th percentile of a normal distribution etc.?
 [Steven Smith] You would want the correct therapist to be selected 100% of the time. Assumptions for the deciding on 5 seconds would be useful.
+[Darren Bates] I don't think it needs a time to select e.g. the receptionist making the appointment may be talking to the patient at the same time. Suggest adding in an amount of times this should be successful i.e. 100%. Agree more of a solution than a requirement.

@@ -11,3 +11,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Andy Russell] Looks great to me.
 [Iain Sproat] Looks good, thought I'm not entirely clear on the phrase 'enter a specified number'.  Do you mean the number/value of the duration?  And by 'select a specified time period', you mean select whether that number is days/weeks/months etc.?
 [Steven Smith] Assumptions for the selected percentage and time period would be useful.
+[Darren Bates] Rationale is ambiguous i.e. without delay infers immediacy?

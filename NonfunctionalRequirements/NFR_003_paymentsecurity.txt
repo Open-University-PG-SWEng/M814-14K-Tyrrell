@@ -10,3 +10,4 @@ Comments: [Emma Hastings] creator
 [Andy Russell] FC looks fine to me too, maybe the rationale could include that we probably need to legally record who made a payment
 [Iain Sproat]  The fit criterion appears to a continuous test for during live release of the product.  Perhaps setting parameters for the number of attempts would assist testing prior to acceptance?  Also, there may be a case (disabled users etc.) where a different user, perhaps the receptionist, enters the payment details on behalf of the user.
 [Steven Smith] Recording the current user that initiates a payment transaction is OK.  In response to Iain's comment, only one user can initiate the payment, so the initaiting user would appear to be appropriate.
+[Darren Bates] I would suggest adding a date to the fit criterion so the payment record was time-stamped as well as having user

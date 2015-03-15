@@ -14,3 +14,4 @@ Comments: [CR]
 [Iain Sproat] The fit criterion might be changed to instead shift focus from 'the user' to the system e.g. 'the system shall display'.  It currently seems to test the ability of the user, rather than the performance of the system.
 [Iain Sproat] Also this has a clashing NFR ID number with another NFR005.
 [Steven Smith] Is failure something we need to be considering.  We are looking for fitness criterion.  Do we need to allow for outliers?
+[Darren Bates] I would suggest adding in a % (between 2 and 5%) to be no longer than 5 seconds
