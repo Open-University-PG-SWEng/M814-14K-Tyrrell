@@ -8,3 +8,4 @@ Comments: [Emma Hastings] creator
 	  
 [Prem Bhatkar] fit criterion ok for me.
 [Andy Russell] FC looks fine to me too, maybe the rationale could include that we probably need to legally record who made a payment
+[Iain Sproat]  The fit criterion appears to a continuous test for during live release of the product.  Perhaps setting parameters for the number of attempts would assist testing prior to acceptance?  Also, there may be a case (disabled users etc.) where a different user, perhaps the receptionist, enters the payment details on behalf of the user.
