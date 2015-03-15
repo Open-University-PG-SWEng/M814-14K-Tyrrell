@@ -23,3 +23,4 @@ Comments:	[Prem Bhatkar] relates to FR "The product shall inform the accounts sy
 [Andy Russell] All ok by me.
 [Iain Sproat] Is there part of the description missing?  The description currently only states "the product will".
 [Steven Smith] Agree with Iain on missing description.  Basis for assumptions for 2 concurrent users rising to 3 concurrent users within 1 year would be useful.
+[Darren Bates] If performance related does it need some sort of measurement of time to be able to test rise from 2 to 3? Otherwise it would pass even if it took hours for 3 users?
