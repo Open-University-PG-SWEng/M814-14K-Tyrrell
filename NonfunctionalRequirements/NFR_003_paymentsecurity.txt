@@ -7,3 +7,4 @@ Originator: Carol, office manager
 Comments: [Emma Hastings] creator
 	  
 [Prem Bhatkar] fit criterion ok for me.
+[Andy Russell] FC looks fine to me too, maybe the rationale could include that we probably need to legally record who made a payment

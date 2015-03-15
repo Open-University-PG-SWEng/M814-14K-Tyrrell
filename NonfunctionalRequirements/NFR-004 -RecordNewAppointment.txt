@@ -7,3 +7,4 @@ Originator: Receptionist
 Comments: [ Lisa Li ]
 
 [prem bhatkar] why 2 seconds and 98%? what the upper allowable boundary for the remaining 2%?
+[Andy Russell] Agree we need to know what should happen in the other 2% of cases.

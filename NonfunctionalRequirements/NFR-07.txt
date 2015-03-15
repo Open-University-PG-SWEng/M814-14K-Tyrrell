@@ -9,5 +9,4 @@ Non functional requirement derived from the function requirement: REQ-ID 004 The
 Added an extra comment
 
 [prem bhatkar] 5 secs 100% of the time? or is it a measure of accuracy, 90% of the time the correct therapist should be selected
-
-
+[Andy Russell] 'Large clear font' suggests a solution. Need to allow for some failure or delay.

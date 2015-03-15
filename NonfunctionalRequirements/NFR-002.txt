@@ -6,3 +6,4 @@ Fit Criterion: For 90 percent of the attempts, the product shall take no longer 
 Comments:[MN] Non-functional requirement associated with functional requirement 002
 
 [prem bhatkar] where do the numbers in fit criterion come from? (agreed?) assumptions? other systems? etc 
+[Andy Russell] For the information we have and as we can't interview (the ficticious) the stake holders so we can't get empirical data, I'd say this looks fine to me.

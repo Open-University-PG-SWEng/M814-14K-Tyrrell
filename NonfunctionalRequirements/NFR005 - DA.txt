@@ -8,5 +8,4 @@ Originator:Dean Armitage [DA]
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 [prem bhatkar] agree with fit criterion 
-
-
+[Andy Russell] I think we're at risk of suggesting a solution, as it mentions scrolling through date and a date entry field. I think this should be left until implementation of the product.

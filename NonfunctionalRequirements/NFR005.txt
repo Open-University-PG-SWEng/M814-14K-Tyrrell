@@ -8,4 +8,4 @@ Originator:Receptionist
 Comments: [CR]
 
 [prem bhatkar] 2 secs 100% of the time? doesnt leave room for failure
-
+[Andy Russell] Agree we need to allow for outliers.

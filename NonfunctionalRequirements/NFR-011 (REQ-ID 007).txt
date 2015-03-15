@@ -3,7 +3,7 @@ Description: The product shall allow a user to quickly select the payment type t
 Type: Performance (12)
 Rationale: The customer will be waiting to leave the clinic and to avoid any frustration we wish to get payment details as quickly as possible.
 Fit Criterion: A trained user of the system shall be able to understand how to select the correct payment time the first time they use the system without any help and within 15 seconds.
-Originator: Andy Russell
+Originator: Requirement : Office Manager,Requirement Creator : James Birkley, NFR : Andy Russell
 Comments: 
 
 
