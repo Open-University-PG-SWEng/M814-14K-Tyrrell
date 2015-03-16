@@ -21,3 +21,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Dean Armitage] Nothing further to add
 [Alvaro Acevedo] Clear description/rational and fit criterion is testable
 [Steven Malley] Seems good to me.
+[Emma Hastings] Good fit criteron, have to admit I didnt know what vectors meant which may need clarifying to avoid a misunderstanding.
