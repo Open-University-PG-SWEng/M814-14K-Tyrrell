@@ -16,3 +16,4 @@ Comments: [CR]
 [Steven Smith] Is failure something we need to be considering.  We are looking for fitness criterion.  Do we need to allow for outliers?
 [Darren Bates] I would suggest adding in a % (between 2 and 5%) to be no longer than 5 seconds
 [Dean Armitage] Nothing further to add
+[Alvaro Acevedo] All review comments above are relevant

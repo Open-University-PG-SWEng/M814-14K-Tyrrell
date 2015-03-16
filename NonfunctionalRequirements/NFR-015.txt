@@ -10,3 +10,4 @@ Comments:
 [Lawrence Craft] I put this in to get some sort of acknowledgement of the DPA since we're storing quite a lot of personal data. I avoided a requirement e.g. "The system should be compliant with the Data Protection Act 1998" as the fit criteria would be far too complex. It could work as a parent to this and other stories.
 
 [Dean Armitage] The fit criteria need some numeric details e.g. 0% of unauthorized users should be able to access personal data. I'm not sure how you would devise an appropriate fit criterion relating to encryption (possibly specify some minimum standard?)
+[Alvaro Acevedo] All OK for me.

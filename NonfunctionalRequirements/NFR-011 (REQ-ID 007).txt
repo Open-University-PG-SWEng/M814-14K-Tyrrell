@@ -10,3 +10,4 @@ Comments:
 [Steven Smith] Why 15 seconds? What assumptions is this based on?
 [Darren Bates] Agree, I would suggest adding something in that states something like 'with 10 mintues of training on system correct payment type to be selected 95% of time', or remove trained user from fit criterion
 [Dean Armitage] Nothing further to add
+[Alvaro Acevedo] What 'A trained user' means? I would be nice to describe it. Also shouldn't the Fit criterion defines a range of time (e.g. 15 seconds and 20 for unaccustomed patients) 
