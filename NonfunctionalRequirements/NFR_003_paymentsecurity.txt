@@ -14,3 +14,4 @@ Comments: [Emma Hastings] creator
 [Dean Armitage] Nothing further to add
 [Alvaro Acevedo] Small comment, will this non-repudiation requirement apply only for electronic payments or also when paying by cash or cheque?
 [Steven Malley] If this is intended to be a continuous test after release, how do we know that the recorded user was really the 'current user'? Tests will have to be run prior to release where the active user accounts are known.
+[James Birkley] Shouldn't the fit criterion also specify the patient, not just the user of the system (office manager, admin)?

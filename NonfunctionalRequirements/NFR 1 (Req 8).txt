@@ -14,4 +14,5 @@ Comments: [Darren Bates]
 [Alvaro Acevedo] Not sure if this requirement is bringing benefits to the appointment system, yes the appointments system will interact with the treatment record but is limited to passing information
 [Steven Malley] An alternate test might be to check that all attempts to input treatment record details fail when the user has insufficient privileges. The access rights for all authorisation levels need to be documented as well.
 [Emma Hastings] I find the description a bit unclear, I thought of rewording as: "The product shall ensure that only an authorised user can input a treatment record or access completed treatment record details for the identified patient". Somewhere in the supporting material it may be good to define the different access levels in more detail.
+[James Birkley] The description looks like a combination of two requirements, making it a bit ambiguous.
 

@@ -14,4 +14,5 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Darren Bates] Difficult requirement as this appears to have the constraint 'no manual data entry' so solution has to be a date selection mechanism. Fit criterion to me is ok.
 [Alvaro Acevedo] I'm afraid this requirement is to tie to the solution
 [Steven Malley] The fit criterion reads more like an extended description. It should have some kind of scale to measure success. Something like "100% of entered dates are in the accepted format".
+[James Birkley] Two requirements have been specified in the description, backed up by having two types (10 & 11).
 

@@ -14,3 +14,4 @@ Comments:[MN] Non-functional requirement associated with functional requirement 
 [Alvaro Acevedo] OK for me, will be nice to have a history of how the team came to the agreement of the range (between 3 and 10 seconds).
 [Steven Malley] These targets seem fine to me.
 [Emma Hastings] Reasonable fit criterion, agree that maybe some supporting information on how 3-10secs was determined would be good. Rationale seems a bit broad.
+[James Birkley] Looks okay with a reasonable range for the retreval of data.
