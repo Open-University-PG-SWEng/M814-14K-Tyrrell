@@ -11,5 +11,6 @@ Comments: [Darren Bates]
 [Iain Sproat] Therapist may also be a role which requires access to the record.  The words 'will be from' in the fit criterion seems to suggest it tests the creator of the records only, not updaters of records; perhaps different wording?
 [Steven Smith]  Would the patients need a security level? Where does the figure 100 come from?
 [Dean Armitage] The Description seems ambiguous. Are we looking at access (including read only) or insert/update functionality. What does 'from anyone' mean?
-
+[Alvaro Acevedo] Not sure if this requirement is bringing benefits to the appointment system, yes the appointments system will interact with the treatment record but is limited to passing information
+[Steven Malley] An alternate test might be to check that all attempts to input treatment record details fail when the user has insufficient privileges. The access rights for all authorisation levels need to be documented as well.
 

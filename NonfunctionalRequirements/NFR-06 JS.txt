@@ -11,3 +11,5 @@ Originator: [M814-JS] Joseph Souter
 [Steven Smith] I agree with Iain on trying to achieve a numeric criteria.  However, as this is a security requirement, you could argue that the fit criteria should be for 100% correct authentication.  You wouldn't feel the requirement was fit if it only authenticated successfully 95% of the time.
 [Darren Bates] Agree with Iain and Steven
 [Dean Armitage] I think that the fit criterion gives an indication that 100% of access attempts by unauthorized users will be rejected but that this should be explicitly stated.
+[Alvaro Acevedo] Ok for me
+[Steven Malley] Looks good to me.

@@ -13,3 +13,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Steven Smith] Assumptions for the selected percentage and time period would be useful.
 [Darren Bates] Rationale is ambiguous i.e. without delay infers immediacy?
 [Dean Armitage] Nothing further to add
+[Alvaro Acevedo] Isn't this requirement clashing with REQ-ID: NFR-014

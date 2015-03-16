@@ -12,4 +12,6 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Iain Sproat] I agree with Andy's comments, it might constrain acceptance to a particular solution.  The method of complying with the fit criterion should be as open as possible.  There may be different mechanisms for entering dates used by disabled users, blind people etc., which should be possible to be accepted as valid solutions.
 [Steven Smith] I also agree that this appears to be offering a solution as opposed to specifing a numeric method of measuring the quality of this requirement.
 [Darren Bates] Difficult requirement as this appears to have the constraint 'no manual data entry' so solution has to be a date selection mechanism. Fit criterion to me is ok.
+[Alvaro Acevedo] I'm afraid this requirement is to tie to the solution
+[Steven Malley] The fit criterion reads more like an extended description. It should have some kind of scale to measure success. Something like "100% of entered dates are in the accepted format".
 
