@@ -1,11 +1,16 @@
 REQ-ID: NFR008
-Description: A receptionist shall be able to enter a time period reasonably quickly
+Description: A receptionist shall be able to enter a time interval reasonably quickly
 Type: Usability
-Rationale: The receptionist will need to find an appropriate date for the patient’s next appointment without delay
-Fit Criterion: Eighty percent of a panel that is representative of the receptionists will be able to enter a specified number and select a specified time period within 15 seconds.
+Rationale: The receptionist will need to find an appropriate date for the patient’s next appointment quickly
+Fit Criterion: Eighty percent of a panel that is representative of the receptionists will be able to enter details of a specified time interval (entering a number and selecting a time period from a choice of 'days', 'weeks' or 'months') within 15 seconds.
 Originator: Steven Malley
 Comments: relates to REQ-ID016 (The system shall accept the time interval (in days, weeks or months) before the next appointment)
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+History:
+v2
+Rationale wording changed from 'without delay' to 'quickly' as per Darren's comment.
+Fit criterion rewritten to clarify the 'specified number' and time period. The reason the test should involve a 'specified time interval' is to mimic reality, where the receptionists will have to enter the time period suggested by the therapist. 
+Description changed to read 'time interval' instead of 'time period', as the phrase 'time period' is used in the fit criterion with a different meaning.
 
 [prem bhatkar] fit criterion ok to me.
 [Andy Russell] Looks great to me.
@@ -16,3 +21,5 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Alvaro Acevedo] Isn't this requirement clashing with REQ-ID: NFR-014
 [Emma Hastings] Looks good, like idea of using a representative panel. I agree with Iain though that specified number is a bit unclear
 [Lisa Li] Nothing further to add
+[Steven Malley] v2 changes made after the above comments
+

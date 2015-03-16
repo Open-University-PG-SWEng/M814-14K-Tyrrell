@@ -20,3 +20,5 @@ Comments: [CR]
 [Steven Malley] I agree with the suggestions above.
 [Emma Hastings] Agree with above. Should rationale include a mention of receptionists?
 [Lisa Li] Agree the fit criterion need to be more measurable.
+[James Birkley] The requirement should use the work "shall" instead of "will" in the description
+
