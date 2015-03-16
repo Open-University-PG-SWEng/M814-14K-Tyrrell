@@ -11,3 +11,4 @@ Comments:
 
 [Dean Armitage] The fit criteria need some numeric details e.g. 0% of unauthorized users should be able to access personal data. I'm not sure how you would devise an appropriate fit criterion relating to encryption (possibly specify some minimum standard?)
 [Alvaro Acevedo] All OK for me.
+[Steven Malley] Dean is right about the numeric targets for acceptance tests.

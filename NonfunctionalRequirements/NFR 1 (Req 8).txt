@@ -12,5 +12,5 @@ Comments: [Darren Bates]
 [Steven Smith]  Would the patients need a security level? Where does the figure 100 come from?
 [Dean Armitage] The Description seems ambiguous. Are we looking at access (including read only) or insert/update functionality. What does 'from anyone' mean?
 [Alvaro Acevedo] Not sure if this requirement is bringing benefits to the appointment system, yes the appointments system will interact with the treatment record but is limited to passing information
-
+[Steven Malley] An alternate test might be to check that all attempts to input treatment record details fail when the user has insufficient privileges. The access rights for all authorisation levels need to be documented as well.
 

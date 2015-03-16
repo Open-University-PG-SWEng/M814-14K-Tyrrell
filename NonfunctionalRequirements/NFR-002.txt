@@ -12,3 +12,4 @@ Comments:[MN] Non-functional requirement associated with functional requirement 
 [Darren Bates] Agree, with the information we have to hand the criterion is acceptable, however perhaps to help testing it could be expanded to say something like for every 50 (for example) attempts
 [Dean Armitage] Nothing further to add
 [Alvaro Acevedo] OK for me, will be nice to have a history of how the team came to the agreement of the range (between 3 and 10 seconds).
+[Steven Malley] These targets seem fine to me.

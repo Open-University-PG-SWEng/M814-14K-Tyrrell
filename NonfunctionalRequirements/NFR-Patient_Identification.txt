@@ -20,3 +20,4 @@ History: 02-03-2015 Created
 [Iain Sproat] Aside, the NFR ID clashes with the other NFR002.
 [Steven Smith] On what assumptions did you decide 5 seconds, 95 percent and no more than 10 seconds?
 [Darren Bates] Suggest type refers to type of NFR no just NF? Aside from that fit criterion ok
+[Steven Malley] Might be slightly ambiguous: presumably 'identify a patient' means something like 'allow access to a patient's data'?

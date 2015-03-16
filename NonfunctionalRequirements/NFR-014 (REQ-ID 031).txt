@@ -10,3 +10,4 @@ Comments: [Steven Smith]  I am assuming that 5 minutes is a reasonable amount of
 [Darren Bates] I would suggest adding a measurement of treatment entered during test meet 5 minutes or under (maybe a %?), if during test it takes 6 minutes for 10% it would indicate the system is failing in its usability
 [Dean Armitage] Nothing further to add
 [Alvaro Acevedo] IMHO this is outside of the scope of the project, which is a system to facilitate making and changing appointments and assit business to handle invoices
+[Steven Malley] 5 minutes seems long enough to be an absolute limit. Perhaps add that 90% should be complete within 2 minutes?

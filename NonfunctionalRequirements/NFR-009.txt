@@ -26,3 +26,4 @@ Comments:	[Prem Bhatkar] relates to FR "The product shall inform the accounts sy
 [Darren Bates] If performance related does it need some sort of measurement of time to be able to test rise from 2 to 3? Otherwise it would pass even if it took hours for 3 users?
 [Dean Armitage] The rationale is solution-bound making a distinction between push and pull. The comments exacerbate this by rejecting a batch/pull solution.
 [Alvaro Acevedo] A part of the look and feel of this requirements (the arrangement of the attributes) + description is incomplete. The fit criterion is clear and is testable
+[Steven Malley] Perhaps frame the fit criterion as a test: "90% of attempts to push invoices to the accounts system from 2 concurrent users successfully push both invoices."
