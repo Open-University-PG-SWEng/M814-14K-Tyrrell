@@ -20,7 +20,6 @@ History: 02-03-2015 Created
 [Iain Sproat] Aside, the NFR ID clashes with the other NFR002.
 [Steven Smith] On what assumptions did you decide 5 seconds, 95 percent and no more than 10 seconds?
 [Darren Bates] Suggest type refers to type of NFR no just NF? Aside from that fit criterion ok
-<<<<<<< HEAD
 [Dean Armitage] Nothing further to add
 [Steven Malley] Might be slightly ambiguous: presumably 'identify a patient' means something like 'allow access to a patient's data'?
-
+[Lawrence Craft] Iain, I believe the acceptable responses should be captured in a separate requirement. This requirement solely deals with performance. In my opinion, the fit criteria look OK for this atomic peice of system behavior.
