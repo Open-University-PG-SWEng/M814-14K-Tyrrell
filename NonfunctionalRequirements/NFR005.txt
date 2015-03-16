@@ -19,3 +19,4 @@ Comments: [CR]
 [Alvaro Acevedo] All review comments above are relevant
 [Steven Malley] I agree with the suggestions above.
 [Emma Hastings] Agree with above. Should rationale include a mention of receptionists?
+[Lisa Li] Agree the fit criterion need to be more measurable.

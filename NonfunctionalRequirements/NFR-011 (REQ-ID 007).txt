@@ -13,3 +13,4 @@ Comments:
 [Alvaro Acevedo] What 'A trained user' means? I would be nice to describe it. Also shouldn't the Fit criterion defines a range of time (e.g. 15 seconds and 20 for unaccustomed patients) 
 [Steven Malley] Typo in the fit criterion: 'payment time' should say 'payment type'.
 [Emma Hastings] Should rationale mention receptionist who will be main user and not just customer?
+[Lisa Li] who is "a trained user"? A user who used system more than 10 times? need to clarify.

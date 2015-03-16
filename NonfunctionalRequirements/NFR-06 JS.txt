@@ -14,3 +14,4 @@ Originator: [M814-JS] Joseph Souter
 [Alvaro Acevedo] Ok for me
 [Steven Malley] Looks good to me.
 [Emma] Fit criterion is ok for me. Should rationale specifically mention schedule data as opposed to all data and should it mention patients at all? 
+[Lisa Li] agree with above.

@@ -23,3 +23,4 @@ History: 02-03-2015 Created
 [Dean Armitage] Nothing further to add
 [Steven Malley] Might be slightly ambiguous: presumably 'identify a patient' means something like 'allow access to a patient's data'?
 [Lawrence Craft] Iain, I believe the acceptable responses should be captured in a separate requirement. This requirement solely deals with performance. In my opinion, the fit criteria look OK for this atomic peice of system behavior.
+[Lisa Li] It is fine to me.

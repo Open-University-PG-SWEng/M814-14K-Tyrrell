@@ -12,3 +12,4 @@ Comments: [Steven Smith]  I am assuming that 5 minutes is a reasonable amount of
 [Alvaro Acevedo] IMHO this is outside of the scope of the project, which is a system to facilitate making and changing appointments and assit business to handle invoices
 [Steven Malley] 5 minutes seems long enough to be an absolute limit. Perhaps add that 90% should be complete within 2 minutes?
 [Emma Hastings] Very minor thing but I would possibly reword fit criterion as "time taken to input treatment data correctly"
+[Lisa Li] Agree with Darren, the measurement need to be more measurable.
