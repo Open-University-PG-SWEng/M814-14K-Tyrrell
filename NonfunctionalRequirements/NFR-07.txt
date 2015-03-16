@@ -13,3 +13,4 @@ Added an extra comment
 [Iain Sproat] This suggests a solution.  I assume the 5 seconds is based on an able-bodied individual carrying out the test? (and not a blind person using a screen reader, which may take longer than 5 seconds without being a failure of the system).  Is 5 sec the mean, median or 95th percentile of a normal distribution etc.?
 [Steven Smith] You would want the correct therapist to be selected 100% of the time. Assumptions for the deciding on 5 seconds would be useful.
 [Darren Bates] I don't think it needs a time to select e.g. the receptionist making the appointment may be talking to the patient at the same time. Suggest adding in an amount of times this should be successful i.e. 100%. Agree more of a solution than a requirement.
+[Dean Armitage] I think that the description could possibly be deemed to be solution-bound but that the rationale and fit criterion both avoid this. I agree that there should be some leeway in the response time.

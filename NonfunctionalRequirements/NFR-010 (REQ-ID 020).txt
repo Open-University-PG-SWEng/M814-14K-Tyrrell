@@ -18,3 +18,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Iain Sproat] The above comments related to v1.0.
 [Steven Smith]  What assumptions made you decide on 100 attempts?
 [Darren Bates] Fine by me
+[Dean Armitage] Nothing further to add
