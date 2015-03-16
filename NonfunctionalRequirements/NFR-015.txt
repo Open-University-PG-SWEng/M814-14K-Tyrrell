@@ -1,0 +1,10 @@
+REQ-ID: NFR-015
+Description: All personal data stored by the system shall be stored securely.
+Type: Security
+Rationale: The Data Protection Act 1998 lays out principles that all data controllers must follow when storing personal data. Principle 7 states "Appropriate technical and organisational measures shall be taken against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data." As the data stored by the system is very personal, it should be stored in a way that an intruder could not immediately get access.
+Fit Criteria: 
+	* All personal data is stored encrypted on disk
+	* Personal data is only accessible via authentication
+Originator: Lawrence Craft
+Comments:
+[Lawrence Craft] I put this in to get some sort of acknowledgement of the DPA since we're storing quite a lot of personal data. I avoided a requirement e.g. "The system should be compliant with the Data Protection Act 1998" as the fit criteria would be far too complex. It could work as a parent to this and other stories.
