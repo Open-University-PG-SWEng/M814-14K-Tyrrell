@@ -1,12 +1,13 @@
 REQ-ID: NFR007
-Description: The project should display therapist name in a large clear font
+Description: Interface for the selection of therapist name shall intuitive to use
 Type: Look and feel
 Rationale: Make the selection of a therapist name easy so there is less chance of a therapist being selected incorrectly
-Fit Criterion: Correct therapist is selectable within 5 seconds
+Fit Criterion: Correct therapist is selectable within 10 seconds
 Originator: James Birkley
 Comments: [M814-JamesBirkley]
 Non functional requirement derived from the function requirement: REQ-ID 004 The product shall be able to accept a known therapist name
 Added an extra comment
+Updated requirement: now a real look and feel, increased selecction time for fit criterion so that it is more realistic
 
 [prem bhatkar] 5 secs 100% of the time? or is it a measure of accuracy, 90% of the time the correct therapist should be selected
 [Andy Russell] 'Large clear font' suggests a solution. Need to allow for some failure or delay.
