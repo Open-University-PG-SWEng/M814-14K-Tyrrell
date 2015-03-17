@@ -2,12 +2,13 @@ REQ-ID:NFR010
 Description:The system must ensure the user has authorisation to update therapist schedules.  Priveleges to update therapist schedules should only be available to Therapists, Receptionists and Office Managers.
 Type: 15a Security Requirements/Access Requirements
 Rationale: Therapist schedules should not be editable by any other than authorised staff of the clinic.  Vectors allowing abuse to the appointments schedule should be minimised.
-Fit Criterion:  For 100 attempts by users without correct priveleges, or external parties not authorised by the system, to update therapist schedules there shall be zero successes.
+Fit Criterion:  For 20 attempts by users without correct priveleges, or external parties not authorised by the system, to update therapist schedules there shall be zero successes.
 Originator: Iain Sproat
 History:
 v1.0 created
 v2.0 revised fit criterion to focus on testing through attacks to the system.
 v3.0 Changed type to match Volere sub-categories
+v4.0 Reduced number of attempts in fit criterion from 100 to 20 to reflect the project being in the environment of a small clinic and the cost of undertaking extensive testing, weighted against the need to ensure compliance of the requirement.
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [Iain Sproat] complementary to functional requirement REQ-ID 020 : The system shall allow time periods for availability of therapists to be customised
 
@@ -24,3 +25,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Emma Hastings] Good fit criteron, have to admit I didnt know what vectors meant which may need clarifying to avoid a misunderstanding.
 [Lisa Li] Nothing further to add.
 [Joseph Souter] Description is good, clearly states who should have privileges. 100 Attempts in a test seems extreme here. This level of testing could lead to an extreme test length.
+[Iain Sproat] The above comments related to v3.0
