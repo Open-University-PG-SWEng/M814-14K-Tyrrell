@@ -22,4 +22,4 @@ Description changed to read 'time interval' instead of 'time period', as the phr
 [Emma Hastings] Looks good, like idea of using a representative panel. I agree with Iain though that specified number is a bit unclear
 [Lisa Li] Nothing further to add
 [Steven Malley] v2 changes made after the above comments
-
+[Joseph Souter] Description and fit criterion both look good.

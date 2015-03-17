@@ -14,3 +14,4 @@ Comments:
 [Steven Malley] Typo in the fit criterion: 'payment time' should say 'payment type'.
 [Emma Hastings] Should rationale mention receptionist who will be main user and not just customer?
 [Lisa Li] who is "a trained user"? A user who used system more than 10 times? need to clarify.
+[Joseph Souter] "Trained user" and "first time they use the system" seems like a contradiction. Assumed this means 100% of users (which would seem impossible).

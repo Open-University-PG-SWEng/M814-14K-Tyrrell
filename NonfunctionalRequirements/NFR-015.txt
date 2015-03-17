@@ -14,3 +14,4 @@ Comments:
 [Steven Malley] Dean is right about the numeric targets for acceptance tests.
 [Lawrence Craft] Good suggestions, Dean and Steven. I updated the first criterion to meet a specific cryptographic standard. I also updated the second to show that no unauthorized users should be allowed to access any personal data (the 0% is implicit in the sentence).
 [Lisa Li] It is fine to me.
+[Joseph Souter] Great after correction, with well explained rationale.

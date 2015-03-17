@@ -23,3 +23,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Steven Malley] Seems good to me.
 [Emma Hastings] Good fit criteron, have to admit I didnt know what vectors meant which may need clarifying to avoid a misunderstanding.
 [Lisa Li] Nothing further to add.
+[Joseph Souter] Description is good, clearly states who should have privileges. 100 Attempts in a test seems extreme here. This level of testing could lead to an extreme test length.

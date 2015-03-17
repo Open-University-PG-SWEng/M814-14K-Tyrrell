@@ -16,4 +16,4 @@ Comments:[MN] Non-functional requirement associated with functional requirement 
 [Emma Hastings] Reasonable fit criterion, agree that maybe some supporting information on how 3-10secs was determined would be good. Rationale seems a bit broad.
 [Lisa Li] additonal infomation should be 3-10 seconds from onclick of a search button to the appointment slots return ?
 [James Birkley] Looks okay with a reasonable range for the retreval of data.
-
+[Joseph Souter] Description and fit criterion are valid (again maybe information for where time and % come from). Rationale could be expanded.

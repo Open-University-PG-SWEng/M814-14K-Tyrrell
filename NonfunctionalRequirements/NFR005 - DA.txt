@@ -16,5 +16,6 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Steven Malley] The fit criterion reads more like an extended description. It should have some kind of scale to measure success. Something like "100% of entered dates are in the accepted format".
 [Lisa Li]I agree with Alvaro, the requirement description seems to tie to the solution. Could it be better to describe as "The product shall provide user friendly date entry"?
 [James Birkley] Two requirements have been specified in the description, backed up by having two types (10 & 11).
+[Joseph Souter] As others have mentioned description is too close to a solution. Fit criterion is good though.
 >>>>>>> 99c75569461f5bc30066b6f090a6f79b784e8acd
 

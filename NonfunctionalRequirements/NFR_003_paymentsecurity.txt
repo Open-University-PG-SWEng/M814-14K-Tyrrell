@@ -16,4 +16,4 @@ Comments: [Emma Hastings] creator
 [Steven Malley] If this is intended to be a continuous test after release, how do we know that the recorded user was really the 'current user'? Tests will have to be run prior to release where the active user accounts are known.
 [Lisa Li] If the insurance is paying for the treatment, does the user refer as the insurance company or the patient.
 [James Birkley] Shouldn't the fit criterion also specify the patient, not just the user of the system (office manager, admin)?
-
+[Joseph Souter] Description and fit criterion look good, as mentioned a date/time stamp would be useful here for recording when the payment is made. Could mention that this could be tested by mocking feedback data of payments being completed in unit test style.

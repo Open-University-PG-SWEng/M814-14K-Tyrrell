@@ -7,3 +7,6 @@ Fit Criterion: The time to create the artefact should be no longer than 1 minute
 Originator: Gerard Corrigan
 Comments: [Gerard Corrigan] I am assuming that the patient will be receiving a physical artefact like a printed appointment card.
                             Since all the information is in the system 1 minute should be ample to produce the artefact.
+
+
+[Joseph Souter] Could add a % of cases (e.g. in 95% of times), as there could be delays for various reasons. Description could change as all systems will try to do things as quickly as possible (even if it it slow).

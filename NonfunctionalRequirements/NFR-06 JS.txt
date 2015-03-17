@@ -15,3 +15,4 @@ Originator: [M814-JS] Joseph Souter
 [Steven Malley] Looks good to me.
 [Emma] Fit criterion is ok for me. Should rationale specifically mention schedule data as opposed to all data and should it mention patients at all? 
 [Lisa Li] agree with above.
+[Joseph Souter] Thank you for the comments. Fit criterion was the assumption of 100% of the time. Rationale was based off, all staff can see the schedules as they can view all data. Patients was added in, since they can only see their own data, this would preclude them from viewing the therapist schedule.
