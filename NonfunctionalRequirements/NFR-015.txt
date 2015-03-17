@@ -1,0 +1,17 @@
+REQ-ID: NFR-015
+Description: All personal data stored by the system shall be stored securely.
+Type: Security
+Rationale: The Data Protection Act 1998 lays out principles that all data controllers must follow when storing personal data. Principle 7 states "Appropriate technical and organisational measures shall be taken against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data." As the data stored by the system is very personal, it should be stored in a way that an intruder could not immediately get access.
+Fit Criteria: 
+	* All personal data is stored on disk with an algorithm that meets the FIPS 140-2 standard.
+	* No unauthorized users are able to access any user's personal data.
+Originator: Lawrence Craft
+Comments:
+[Lawrence Craft] I put this in to get some sort of acknowledgement of the DPA since we're storing quite a lot of personal data. I avoided a requirement e.g. "The system should be compliant with the Data Protection Act 1998" as the fit criteria would be far too complex. It could work as a parent to this and other stories.
+
+[Dean Armitage] The fit criteria need some numeric details e.g. 0% of unauthorized users should be able to access personal data. I'm not sure how you would devise an appropriate fit criterion relating to encryption (possibly specify some minimum standard?)
+[Alvaro Acevedo] All OK for me.
+[Steven Malley] Dean is right about the numeric targets for acceptance tests.
+[Lawrence Craft] Good suggestions, Dean and Steven. I updated the first criterion to meet a specific cryptographic standard. I also updated the second to show that no unauthorized users should be allowed to access any personal data (the 0% is implicit in the sentence).
+[Lisa Li] It is fine to me.
+[Joseph Souter] Great after correction, with well explained rationale.

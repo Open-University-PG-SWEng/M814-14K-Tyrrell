@@ -11,3 +11,9 @@ Comments: [Emma Hastings] creator
 [Iain Sproat]  The fit criterion appears to a continuous test for during live release of the product.  Perhaps setting parameters for the number of attempts would assist testing prior to acceptance?  Also, there may be a case (disabled users etc.) where a different user, perhaps the receptionist, enters the payment details on behalf of the user.
 [Steven Smith] Recording the current user that initiates a payment transaction is OK.  In response to Iain's comment, only one user can initiate the payment, so the initaiting user would appear to be appropriate.
 [Darren Bates] I would suggest adding a date to the fit criterion so the payment record was time-stamped as well as having user
+[Dean Armitage] Nothing further to add
+[Alvaro Acevedo] Small comment, will this non-repudiation requirement apply only for electronic payments or also when paying by cash or cheque?
+[Steven Malley] If this is intended to be a continuous test after release, how do we know that the recorded user was really the 'current user'? Tests will have to be run prior to release where the active user accounts are known.
+[Lisa Li] If the insurance is paying for the treatment, does the user refer as the insurance company or the patient.
+[James Birkley] Shouldn't the fit criterion also specify the patient, not just the user of the system (office manager, admin)?
+[Joseph Souter] Description and fit criterion look good, as mentioned a date/time stamp would be useful here for recording when the payment is made. Could mention that this could be tested by mocking feedback data of payments being completed in unit test style.

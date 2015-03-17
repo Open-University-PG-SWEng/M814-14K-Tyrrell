@@ -1,4 +1,4 @@
-REQ-ID – NFR-002
+REQ-ID: NFR-002
 Description: The product shall be quick in determining the free appointment slots for a therapist
 Type: 12
 Rationale: So that the users can be efficient in their work
@@ -10,3 +10,10 @@ Comments:[MN] Non-functional requirement associated with functional requirement 
 [Iain Sproat] The period in which the free appointment slots are determined should be constrained.  i.e. 'determine the free appointment slots in a defined day/week for a therapist'.  If the system has to calculate over a long time period it may not pass the test.
 [Steven Smith] Stating the assumptions for the selected percentages and time limits would be useful.  However, they seem like reasonable assumptions based on limited information.
 [Darren Bates] Agree, with the information we have to hand the criterion is acceptable, however perhaps to help testing it could be expanded to say something like for every 50 (for example) attempts
+[Dean Armitage] Nothing further to add
+[Alvaro Acevedo] OK for me, will be nice to have a history of how the team came to the agreement of the range (between 3 and 10 seconds).
+[Steven Malley] These targets seem fine to me.
+[Emma Hastings] Reasonable fit criterion, agree that maybe some supporting information on how 3-10secs was determined would be good. Rationale seems a bit broad.
+[Lisa Li] additonal infomation should be 3-10 seconds from onclick of a search button to the appointment slots return ?
+[James Birkley] Looks okay with a reasonable range for the retreval of data.
+[Joseph Souter] Description and fit criterion are valid (again maybe information for where time and % come from). Rationale could be expanded.

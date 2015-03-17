@@ -3,7 +3,7 @@ Description: The product shall allow date entry  only through a date selection m
 Type:10 Look and Feel
      11 Usability and Humanity
 Rationale:Different users may attempt to enter dates in differing formats. Restricting date entry to a date selection mechanism ensures consistency of date formatting.
-Fit Criterion: Whenever the product is focussed on a date entry field, a date selection mechanism shall be presented to the user allowing the user to select a date. The mechanism shall allow the user to scroll through months and years or key in the same to allow the date selection mechanism to focus on a specific month. Free-format entry of dates will not be possible.
+Fit Criterion: 100% of the times that the product requires a user to provide a date, a date selection mechanism shall be presented allowing the user to select a date.
 Originator:Dean Armitage [DA]
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
@@ -12,3 +12,10 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Iain Sproat] I agree with Andy's comments, it might constrain acceptance to a particular solution.  The method of complying with the fit criterion should be as open as possible.  There may be different mechanisms for entering dates used by disabled users, blind people etc., which should be possible to be accepted as valid solutions.
 [Steven Smith] I also agree that this appears to be offering a solution as opposed to specifing a numeric method of measuring the quality of this requirement.
 [Darren Bates] Difficult requirement as this appears to have the constraint 'no manual data entry' so solution has to be a date selection mechanism. Fit criterion to me is ok.
+[Alvaro Acevedo] I'm afraid this requirement is to tie to the solution
+[Steven Malley] The fit criterion reads more like an extended description. It should have some kind of scale to measure success. Something like "100% of entered dates are in the accepted format".
+[Lisa Li]I agree with Alvaro, the requirement description seems to tie to the solution. Could it be better to describe as "The product shall provide user friendly date entry"?
+[James Birkley] Two requirements have been specified in the description, backed up by having two types (10 & 11).
+[Joseph Souter] As others have mentioned description is too close to a solution. Fit criterion is good though.
+>>>>>>> 99c75569461f5bc30066b6f090a6f79b784e8acd
+

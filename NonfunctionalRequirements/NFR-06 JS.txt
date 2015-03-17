@@ -10,3 +10,9 @@ Originator: [M814-JS] Joseph Souter
 [Iain Sproat] Should there be numeric criteria as part of the FC?  e.g. of x requests, x will be from authorised....  Or, vice versa - of x attempts zero will be from non-authorised...
 [Steven Smith] I agree with Iain on trying to achieve a numeric criteria.  However, as this is a security requirement, you could argue that the fit criteria should be for 100% correct authentication.  You wouldn't feel the requirement was fit if it only authenticated successfully 95% of the time.
 [Darren Bates] Agree with Iain and Steven
+[Dean Armitage] I think that the fit criterion gives an indication that 100% of access attempts by unauthorized users will be rejected but that this should be explicitly stated.
+[Alvaro Acevedo] Ok for me
+[Steven Malley] Looks good to me.
+[Emma] Fit criterion is ok for me. Should rationale specifically mention schedule data as opposed to all data and should it mention patients at all? 
+[Lisa Li] agree with above.
+[Joseph Souter] Thank you for the comments. Fit criterion was the assumption of 100% of the time. Rationale was based off, all staff can see the schedules as they can view all data. Patients was added in, since they can only see their own data, this would preclude them from viewing the therapist schedule.

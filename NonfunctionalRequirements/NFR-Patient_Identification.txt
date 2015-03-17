@@ -1,10 +1,18 @@
-REQ-ID:NFR002
+REQ-ID: NFR102
 Description: The product shall identify a patient fast enough.
-Type: Non-Functional
-Rationale: When the system receives a signal to  uniquely identify a patient, the response should be fast to avoid interrupting user's flow process.
+Type: Non-Functional - Performance
+Rationale: When the system receives a signal to uniquely identify a patient, the response should be fast to avoid interrupting user's flow process.
 Fit Criterion: The response from the system when identifying a patient must be less than 5 seconds for 95 percent of the requests and in any case no more than 10 seconds
 Originator: Carol, Office Manager 
 Comments: [AlvaroAcevedo]
+Assumption: Assuming that previous discussions with stakeholders, a decision has taken to clarify the maximun time a user may wait 
+            before the system recognises patient identity is 5 seconds, with 
+            a tolerance between 5 and 10 seconds for only 5 % of the requests.
+History: 02-03-2015 Created
+16-03-2015 Modify: Based on comments: Change REQ-ID to uniquely identify this requirement
++ Update type of requirement to Performance
++ Add comments on how the requirement came to limit the response of the system to identify a patient
+
 
 [prem bhatkar] fit criterion ok to me.
 [Andy Russell] agree this looks fine.
@@ -12,3 +20,8 @@ Comments: [AlvaroAcevedo]
 [Iain Sproat] Aside, the NFR ID clashes with the other NFR002.
 [Steven Smith] On what assumptions did you decide 5 seconds, 95 percent and no more than 10 seconds?
 [Darren Bates] Suggest type refers to type of NFR no just NF? Aside from that fit criterion ok
+[Dean Armitage] Nothing further to add
+[Steven Malley] Might be slightly ambiguous: presumably 'identify a patient' means something like 'allow access to a patient's data'?
+[Lawrence Craft] Iain, I believe the acceptable responses should be captured in a separate requirement. This requirement solely deals with performance. In my opinion, the fit criteria look OK for this atomic peice of system behavior.
+[Lisa Li] It is fine to me.
+[Joseph Souter] Good after addition of assumption. Might be best to limit to 99% of the time to accommodate system/network errors.

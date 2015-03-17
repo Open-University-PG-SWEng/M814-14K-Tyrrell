@@ -10,5 +10,11 @@ Comments: [Darren Bates]
 [Andy Russell] I think this should be 100% of records during testing.
 [Iain Sproat] Therapist may also be a role which requires access to the record.  The words 'will be from' in the fit criterion seems to suggest it tests the creator of the records only, not updaters of records; perhaps different wording?
 [Steven Smith]  Would the patients need a security level? Where does the figure 100 come from?
-
+[Dean Armitage] The Description seems ambiguous. Are we looking at access (including read only) or insert/update functionality. What does 'from anyone' mean?
+[Alvaro Acevedo] Not sure if this requirement is bringing benefits to the appointment system, yes the appointments system will interact with the treatment record but is limited to passing information
+[Steven Malley] An alternate test might be to check that all attempts to input treatment record details fail when the user has insufficient privileges. The access rights for all authorisation levels need to be documented as well.
+[Emma Hastings] I find the description a bit unclear, I thought of rewording as: "The product shall ensure that only an authorised user can input a treatment record or access completed treatment record details for the identified patient". Somewhere in the supporting material it may be good to define the different access levels in more detail.
+[Lisa Li] I am not sure the fit criterion meaning, can the system hold a 50% completed treatment record, if so can everyone access that record as it is no a completed treatment record.
+[James Birkley] The description looks like a combination of two requirements, making it a bit ambiguous.
+[Joseph Souter] 100 Records in a test seems extreme here. This level of testing could lead to an extreme test length. Also more clarity is needed on description of who can access data.
 

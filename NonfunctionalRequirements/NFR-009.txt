@@ -24,3 +24,7 @@ Comments:	[Prem Bhatkar] relates to FR "The product shall inform the accounts sy
 [Iain Sproat] Is there part of the description missing?  The description currently only states "the product will".
 [Steven Smith] Agree with Iain on missing description.  Basis for assumptions for 2 concurrent users rising to 3 concurrent users within 1 year would be useful.
 [Darren Bates] If performance related does it need some sort of measurement of time to be able to test rise from 2 to 3? Otherwise it would pass even if it took hours for 3 users?
+[Dean Armitage] The rationale is solution-bound making a distinction between push and pull. The comments exacerbate this by rejecting a batch/pull solution.
+[Alvaro Acevedo] A part of the look and feel of this requirements (the arrangement of the attributes) + description is incomplete. The fit criterion is clear and is testable
+[Steven Malley] Perhaps frame the fit criterion as a test: "90% of attempts to push invoices to the accounts system from 2 concurrent users successfully push both invoices."
+[Joseph Souter] Description is missing. This seems difficult to test, as this would not be something that should be hard coded (an automatic upgrade of system after a set amount of time). Also I believe an earlier specification stated there were 1 full time receptionist for each clinic, the manager and a part time receptionist who goes between each to cover as needed, so there might already be 3 users from launch.
