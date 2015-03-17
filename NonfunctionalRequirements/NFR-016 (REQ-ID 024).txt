@@ -1,0 +1,9 @@
+REQ-ID: NFR-016
+Description: The system shall produce the patients artefact as quickly as possible. 
+Type: Performance 
+Rationale: The patient will have already spent some time at the receptionists desk therefore it is important
+           they receive their artefact as a quickly as possible after agreeing their next appointment time.
+Fit Criterion: The time to create the artefact should be no longer than 1 minute from agreement on the next appointment.
+Originator: Gerard Corrigan
+Comments: [Gerard Corrigan] I am assuming that the patient will be receiving a physical artefact like a printed appointment card.
+                            Since all the information is in the system 1 minute should be ample to produce the artefact.
