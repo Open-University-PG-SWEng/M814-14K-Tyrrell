@@ -1,8 +1,9 @@
 REQ-ID: NFR004
-Description: The system shall record a new appointment booking within 2 second.
+Description: The system shall record a new appointment booking within 2 seconds.
 Type: 12 - Performance
 Rationale: To provide a seamless user experience when booking a new appointment.
 Fit Criterion: The response from the system when saving the new appointment must be within 2 second for 98 percent of the requests.
+Revised Fit Criterion: For 100 requests, at least 98 receive responses from the system within 2 seconds. And never take more than 10 seconds.
 Originator: Receptionist 
 Comments: [ Lisa Li ]
 
@@ -15,3 +16,5 @@ Comments: [ Lisa Li ]
 [Dean Armitage] As this is about system response time, I don't think that it matters whether the response is 'accepted' or 'rejected'.
 [Alvaro Acevedo] Small typo in the description, should be '2 seconds'. I would suggest to revisit the rational to make it clear that this is about performing the saving data on the system
 [Steven Malley] I agree with Darren that the fit criterion should be expressed in terms of a test. Something like 'Out of 100 requests to save a new appointment, at least 98 receive responses from the system within 2 seconds.'
+
+
