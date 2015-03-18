@@ -2,9 +2,9 @@ REQ-ID: 007 NFR-ID: 011
 Description: The product shall allow a user to quickly select the payment type the customer wishes to use.
 Type: Performance (12)
 Rationale: The customer will be waiting to leave the clinic and to avoid any frustration we wish to get payment details as quickly as possible.
-Fit Criterion: A trained user of the system shall be able to understand how to select the correct payment time the first time they use the system without any help and within 15 seconds.
+Fit Criterion: A user with one hour's training of the system shall be able to select the correct payment type within 15 seconds in 95% of cases.
 Originator: Requirement : Office Manager,Requirement Creator : James Birkley, NFR : Andy Russell
-Comments: 
+Comments: 15 seconds is assumed to be a time that would not cause frustration to end user.
 
 [Iain Sproat]  What level and duration of training for the user?  Is 'trained user' necessary if the criteria is for 'the first time they use the system without any help'?  What percentage of attempts are expected within 15 seconds?  What about outliers?
 [Steven Smith] Why 15 seconds? What assumptions is this based on?
@@ -16,3 +16,4 @@ Comments:
 [Lisa Li] who is "a trained user"? A user who used system more than 10 times? need to clarify.
 [Joseph Souter] "Trained user" and "first time they use the system" seems like a contradiction. Assumed this means 100% of users (which would seem impossible).
 [Mohammed Ngum] Generally, this requirement looks more like a usability requirement than a performance requirement.
+[Andy Russell] Updated NFR / FC based on feedback.
