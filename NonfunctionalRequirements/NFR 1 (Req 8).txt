@@ -1,10 +1,11 @@
 REQ-ID: NFR001
-Description: The product shall ensure that only an authorised user has access to input or completed treatment record details for the identified patient
+Description: The product shall ensure that only an authorised user has access to allow input of a completed treatment record, or amend a completed treatment record, for the identified patient
 Type: Security
-Rationale: To prevent unauthorised users from being able to input new patient treatment records, or amend existing patient treatment records within the product
-Fit Criterion: For 100 completed treatment records, none of the records will be from anyone other than Level 1 (admin) or Level 2 (receptionist)
+Rationale: To prevent unauthorised users from being able to input new patient treatment records, or amend existing patient treatment records within the product. There will be several different access levels - 1 = Admin, 2 = Read/Write, 3 = Read Only 
+Fit Criterion: For 25 completed treatment records, none of the records will be from any other user other than Level 1 (admin) or Level 2 (receptionist). A user of level 3 access will be able to read the treatment record e.g. therapist, but not input a record, or amend an existing record
 Originator: Office Manager
 Comments: [Darren Bates]
+v0.2 - Amended description to make clearer, and added access levels to rationale. Reduced test coverage to 25 records to reduce time in creating test data
 
 [Prem Bhatkar] 100 records as a test or 100% records on an ongoing basis.
 [Andy Russell] I think this should be 100% of records during testing.
