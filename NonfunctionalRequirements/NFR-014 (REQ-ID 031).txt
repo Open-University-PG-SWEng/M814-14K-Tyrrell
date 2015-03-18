@@ -2,9 +2,11 @@ REQ-ID: NFR-014
 Description: The time taken to input completed treatment should be relatively small. 
 Type: Usability 
 Rationale: The receptionists and therapists are busy and the patient should not be at the practice for any longer than necessary.  Reducing the time taken to input data will facilitate both.
-Fit Criterion: The time taken to input treatment should take no longer than 5 minutes.
+Fit Criterion: The time taken to input treatment should be within 2 minutes for 90% of cases and should never take longer than 5 minutes.
 Originator: Steven Smith
 Comments: [Steven Smith]  I am assuming that 5 minutes is a reasonable amount of time to input the data and keep the patient waiting.
+History: v1 - Original Creation
+         v2 - Changed Fit criterion to include 90% should be completed within 2 minutes
 
 [Iain Sproat] Should the time be compared to the paper based system?  Is there a risk that the staff will fall back to the existing (presumably paper-based) system if the time taken to enter details in the new system is relatively longer?  What percentage of attempts should be faster than 5 minutes?  Is there an absolute limit for all outliers?
 [Darren Bates] I would suggest adding a measurement of treatment entered during test meet 5 minutes or under (maybe a %?), if during test it takes 6 minutes for 10% it would indicate the system is failing in its usability
