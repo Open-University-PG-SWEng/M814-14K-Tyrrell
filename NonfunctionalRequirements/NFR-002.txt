@@ -3,12 +3,13 @@ Description: The product shall be quick in determining the free appointment slot
 Type: 12
 Rationale: So that the users can be efficient in their work
 Fit Criterion: For 90 percent of the attempts, the product shall take no longer than 3 seconds to determine the free appointment slots for a therapist. And never take more than 10 seconds.
-Fit Criterion_V2: For 90 percent of the attempts, the product shall take no longer than 3 seconds (from when user submits request) to determine the free appointment slots for a therapist. And never take more than 10 seconds.
+Fit Criterion_V2: For 90 percent of the attempts, the product shall take no longer than 3 seconds (from when user submits request) to determine the free appointment slots for a therapist for a period of 2-4 weeks in the future. And never take more than 10 seconds.
 Comments:[MN] Non-functional requirement associated with functional requirement 002
 Assumption1: A survey in the clinic concluded that a waiting period of less than 3 seconds in determining free appointment slots would make staff very efficient in their work. 
 Between 4 to 10 seconds would make them reasonably efficient.And more than 10 seconds would make them inefficient.
+Assumption2:90 percent of patients look for appointments within a 2-4 weeks in the future.
 
-Comments:Assumption added 
+Comments:Assumption added post feedback from the group
 
 [prem bhatkar] where do the numbers in fit criterion come from? (agreed?) assumptions? other systems? etc 
 [Andy Russell] For the information we have and as we can't interview (the ficticious) the stake holders so we can't get empirical data, I'd say this looks fine to me.
