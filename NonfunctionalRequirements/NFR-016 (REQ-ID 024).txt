@@ -11,3 +11,4 @@ Comments: [Gerard Corrigan] I am assuming that the patient will be receiving a p
 
 [Joseph Souter] Could add a % of cases (e.g. in 95% of times), as there could be delays for various reasons. Description could change as all systems will try to do things as quickly as possible (even if it it slow).
 [Andy Russell] I think 'artefact' is a generic word and the FC could be more specific in what the patient is expected to leave with.
+[Mohammed Ngum] Difficult to find a measure for artefact thus fit criterion is incomplete.

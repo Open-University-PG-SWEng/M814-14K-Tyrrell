@@ -17,5 +17,6 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Lisa Li]I agree with Alvaro, the requirement description seems to tie to the solution. Could it be better to describe as "The product shall provide user friendly date entry"?
 [James Birkley] Two requirements have been specified in the description, backed up by having two types (10 & 11).
 [Joseph Souter] As others have mentioned description is too close to a solution. Fit criterion is good though.
+[Mohammed Ngum] Generally i think this requirement goes too much into technology thus fit criterion and rationale are limiting in terms of possible solutions.
 >>>>>>> 99c75569461f5bc30066b6f090a6f79b784e8acd
 

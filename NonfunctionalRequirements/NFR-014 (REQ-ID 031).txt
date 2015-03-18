@@ -15,3 +15,4 @@ Comments: [Steven Smith]  I am assuming that 5 minutes is a reasonable amount of
 [Lisa Li] Agree with Darren, the measurement need to be more measurable.
 [Joseph Souter] As mentioned 5 minutes seems like a very long time, possible reduce this and add a percentage as mentioned before.
 [Andy Russell] Nothing further to add.
+[Mohammed Ngum] Based on the assumption, this looks fine to me.

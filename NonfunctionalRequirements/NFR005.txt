@@ -22,3 +22,4 @@ Comments: [CR]
 [Lisa Li] Agree the fit criterion need to be more measurable.
 [James Birkley] The requirement should use the work "shall" instead of "will" in the description
 [Joseph Souter] As others have mentioned a longer time and % of cases might be useful here.
+[Mohammed Ngum] I think there's need for business tolerance in this fit criterion in consideration of the product's operating environment. e.g. Peek hours.

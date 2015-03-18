@@ -18,3 +18,4 @@ Updated requirement: now a real look and feel, increased selecction time for fit
 [Alvaro Acevedo] Not sure if the scale used in the fit criterion is relevant to the type of requirement. Additionally  It will be nice to have the type of font / police and size, to better understand what 'in a large clear font' means.
 [Steven Malley] This fit criterion seems more like a usability requirement than 'Look and feel'.
 [Joseph Souter] Could do with a percentage of times, as users could make mistakes which would cause this to fail (misclicks).
+[Mohammed Ngum] Slight typo in the Description ("be" is missing after shall). Fit criterion should indicate target audience. e.g. computer literate.

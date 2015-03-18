@@ -17,4 +17,5 @@ Comments: [Darren Bates]
 [Lisa Li] I am not sure the fit criterion meaning, can the system hold a 50% completed treatment record, if so can everyone access that record as it is no a completed treatment record.
 [James Birkley] The description looks like a combination of two requirements, making it a bit ambiguous.
 [Joseph Souter] 100 Records in a test seems extreme here. This level of testing could lead to an extreme test length. Also more clarity is needed on description of who can access data.
+[Mohammed Ngum] Fit criterion should be clearer in terms of testing the input of new patient treatment records and amending existing patient treatment records.
 
