@@ -27,3 +27,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Joseph Souter] Description is good, clearly states who should have privileges. 100 Attempts in a test seems extreme here. This level of testing could lead to an extreme test length.
 [Iain Sproat] The above comments related to v3.0
 [Mohammed Ngum] Fit criterion looks good. But I also don't know what you mean by vectors.
+[Iain Sproat] The use the word 'vector' in the above is in the context of attack surfaces: http://en.wikipedia.org/wiki/Attack_surface
