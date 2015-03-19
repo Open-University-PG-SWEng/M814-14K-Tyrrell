@@ -1,7 +1,0 @@
-REQ-ID: NFR004
-Description: The system shall record a new appointment booking within 2 second.
-Type: 12 - Performance
-Rationale: To provide a seamless user experience when booking a new appointment.
-Fit Criterion: The response from the system when saving the new appointment must be within 2 second for 98 percent of the requests.
-Originator: Receptionist 
-Comments: [ Lisa Li ]

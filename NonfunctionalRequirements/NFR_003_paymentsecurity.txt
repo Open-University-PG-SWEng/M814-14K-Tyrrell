@@ -1,7 +1,0 @@
-REQ-ID: NFR003
-Description: The product shall retain a record of the user who initiated the payment
-Type: Security
-Rationale: To retain information about the current user to ensure they cannot later deny initiating a payment transaction if an audit occurs
-Fit Criterion: 100% of payment transactions should have the current user recorded
-Originator: Carol, office manager
-Comments: [Emma Hastings] creator
