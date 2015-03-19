@@ -28,3 +28,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Iain Sproat] The above comments related to v3.0
 [Mohammed Ngum] Fit criterion looks good. But I also don't know what you mean by vectors.
 [Iain Sproat] The use the word 'vector' in the above is in the context of attack surfaces: http://en.wikipedia.org/wiki/Attack_surface
+[Lawrence Craft] Description and rationale look good. Maybe the fit criterion should specify passing a penetration test? An "attempt by a user without correct privileges" is a bit vague. At the moment the fit criterion are only testable after the system is live.
