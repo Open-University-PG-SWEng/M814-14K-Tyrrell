@@ -5,9 +5,11 @@ Rationale: The patient will have already spent some time at the receptionists de
            they receive their artefact as a quickly as possible after agreeing their next appointment time.
 Fit Criterion: The time to create the artefact should be no longer than 1 minute from agreement on the next appointment in 95% of cases.
 Originator: Gerard Corrigan
-Comments: [Gerard Corrigan] I am assuming that the patient will be receiving a physical artefact like a printed appointment card.
-                            Since all the information is in the system 1 minute should be ample to produce the artefact.
-                            
+Comments: [Gerard Corrigan] 	I am assuming that the patient will be receiving a physical artefact like a printed appointment card.
+                            	Since all the information is in the system 1 minute should be ample to produce the artefact.
+                            	In response to Andy and Mohammed -I don't know what the solution is so it doesn't matter for the requirement what 				the artefact is, it could be an appointment card or an A4 printed or something else, it only matters for this 				requirement that they get it in a timely manner.
+				Good suggestion Joesph, I have added in a % to allow for some variation.
+
 [Joseph Souter] Could add a % of cases (e.g. in 95% of times), as there could be delays for various reasons. Description could change as all systems will try to do things as quickly as possible (even if it it slow).
 [Andy Russell] I think 'artefact' is a generic word and the FC could be more specific in what the patient is expected to leave with.
 [Mohammed Ngum] Difficult to find a measure for artefact thus fit criterion is incomplete.
