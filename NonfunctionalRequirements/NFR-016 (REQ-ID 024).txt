@@ -3,13 +3,11 @@ Description: The system shall produce the patients artefact as quickly as possib
 Type: Performance 
 Rationale: The patient will have already spent some time at the receptionists desk therefore it is important
            they receive their artefact as a quickly as possible after agreeing their next appointment time.
-Fit Criterion: The time to create the artefact should be no longer than 1 minute from agreement on the next appointment.
+Fit Criterion: The time to create the artefact should be no longer than 1 minute from agreement on the next appointment in 95% of cases.
 Originator: Gerard Corrigan
 Comments: [Gerard Corrigan] I am assuming that the patient will be receiving a physical artefact like a printed appointment card.
                             Since all the information is in the system 1 minute should be ample to produce the artefact.
-
-
+                            
 [Joseph Souter] Could add a % of cases (e.g. in 95% of times), as there could be delays for various reasons. Description could change as all systems will try to do things as quickly as possible (even if it it slow).
 [Andy Russell] I think 'artefact' is a generic word and the FC could be more specific in what the patient is expected to leave with.
 [Mohammed Ngum] Difficult to find a measure for artefact thus fit criterion is incomplete.
-[Lawrence Craft] It seems to me that "artefect" is the right word to use here--this requirement is *only* about the performance. There will be (presumably) another functional requirement that describes what the artefact is. I think it looks fine.

@@ -17,4 +17,4 @@ Comments: 15 seconds is assumed to be a time that would not cause frustration to
 [Joseph Souter] "Trained user" and "first time they use the system" seems like a contradiction. Assumed this means 100% of users (which would seem impossible).
 [Mohammed Ngum] Generally, this requirement looks more like a usability requirement than a performance requirement.
 [Andy Russell] Updated NFR / FC based on feedback.
-[Lawrence Craft] Agree with Mohammed, this appears more like a usability requirement as the bottleneck is the user rather than the system itself. Also, is 1 hr training excessive for a system used by a man-off-the-street?
+[Gerard Corrigan] Nothing to add requirement looks good to me.

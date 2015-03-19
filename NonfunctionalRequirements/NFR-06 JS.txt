@@ -17,3 +17,4 @@ Originator: [M814-JS] Joseph Souter
 [Lisa Li] agree with above.
 [Joseph Souter] Thank you for the comments. Fit criterion was the assumption of 100% of the time. Rationale was based off, all staff can see the schedules as they can view all data. Patients was added in, since they can only see their own data, this would preclude them from viewing the therapist schedule.
 [Mohammed Ngum] The rationale doesn't lead on to the fit criterion. If staff are permitted to access all data on the system then why test the requirement for non-authorised member of staff. A bit contraditing.
+[Gerard Corrigan] Fit criterion has no measurement element, agree with previous comment that fit criteria should be for 100% correct authentication

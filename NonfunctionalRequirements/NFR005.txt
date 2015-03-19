@@ -23,3 +23,4 @@ Comments: [CR]
 [James Birkley] The requirement should use the work "shall" instead of "will" in the description
 [Joseph Souter] As others have mentioned a longer time and % of cases might be useful here.
 [Mohammed Ngum] I think there's need for business tolerance in this fit criterion in consideration of the product's operating environment. e.g. Peek hours.
+[Gerard Corrigan] Well written requirement, the only change may be as suggested to include a % to allow for some variation.

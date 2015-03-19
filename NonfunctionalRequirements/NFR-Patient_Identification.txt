@@ -26,3 +26,4 @@ History: 02-03-2015 Created
 [Lisa Li] It is fine to me.
 [Joseph Souter] Good after addition of assumption. Might be best to limit to 99% of the time to accommodate system/network errors.
 [Mohammed Ngum] Looks fine with the assumption made.
+[Gerard Corrigan] Can't fault this requirement.

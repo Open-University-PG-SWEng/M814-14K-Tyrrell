@@ -18,3 +18,4 @@ History: v1 - Original Creation
 [Joseph Souter] As mentioned 5 minutes seems like a very long time, possible reduce this and add a percentage as mentioned before.
 [Andy Russell] Nothing further to add.
 [Mohammed Ngum] Based on the assumption, this looks fine to me.
+[Gerard Corrigan] Agree Alvaro that this is not a requirment of the system. It is clearly stated that the system to record treatments is seperate and there should be no interface with the appoinments/payments system.
