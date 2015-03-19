@@ -1,20 +1,28 @@
 REQ-ID –	 NFR-009
 
-Description:	the product will   
+Description:	the product interface with the accounts system will support an increase in users  associated with deployment to the other practice
 
 Type: 		Performance - scalability
 
 Rationale: 	Currently only 1 practice will be using the system so limit the number of users triggering invoices to be sent to the accounts system.
 		from TMA01 the system may be deployed at another site, increasing the number of users concurrently sending invoices to accounts system
 		
-Fit Criterion: 	the product interface to the accounts system will allow  invoices to be pushed concurrently from 2 users rising to 3 concurrent users within 1 calendar
-		year.
+Fit Criterion: 	the product interface to the accounts system will allow 2 users rising to 3 users to push invoices concurrently within 1 calendar
+		year of deploument to the first practice.
 
 Comments:	[Prem Bhatkar] relates to FR "The product shall inform the accounts systems that an treatment has been completed"
+		
 		Assumptions 
-			only 1 receptionist per site  + office manager may be generating an invoice. ToDo back-off assumption with stakeholders.
+			only 1 receptionist per site  + office manager may be generating an invoice. i.e. 2 receptionists and 1 office manager 
+			may be generating invoices. receptionist providing cover is not in addition to, rather instead of another receptionist.
+			is ToDo back-off assumption with stakeholders.
+			
 			system pushes invoices to accounts system rather than batching and responding to a pull request from the a/c system.
-			deployment to other site after 1 year.ToDo back-off assumption with stakeholders.
+			deployment to other site after 1 year.ToDo back-off assumption with stakeholders. elements of type 13b include trigger
+			for adjacent system so this BE provides, would be an associated requirement. 
+			
+			1 calendar year sufficient to test and refine system in situ.
+			
 			
 		Supporting doc TMA01
 			increase in number of practices system deployed to as per TMA01 (2 sites).
