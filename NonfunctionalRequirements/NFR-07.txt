@@ -20,3 +20,4 @@ Updated requirement: now a real look and feel, increased selecction time for fit
 [Joseph Souter] Could do with a percentage of times, as users could make mistakes which would cause this to fail (misclicks).
 [Mohammed Ngum] Slight typo in the Description ("be" is missing after shall). Fit criterion should indicate target audience. e.g. computer literate.
 [Gerard Corrigan] Fit Criterion is for a performance requirement, it should be something like therapist is correctly selected 98% of the time.
+[Shunsuke Yanome]I think within 5 seconds is better for this requirement.

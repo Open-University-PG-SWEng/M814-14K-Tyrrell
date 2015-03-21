@@ -25,3 +25,4 @@ Comments:Assumption added post feedback from the group
 [Joseph Souter] Description and fit criterion are valid (again maybe information for where time and % come from). Rationale could be expanded.
 [Mohammed Ngum] Assumption added after the above feedback
 [Gerard Corrigan] The type should be actual type and not the number 12, so stakeholders etc. reveiwing the requirments can understand what tyope it is. Agree with the rest of the requirement.
+[Shunsuke Yanome] Determing userbility (3-10 seconds) is good for me.

@@ -19,4 +19,5 @@ Comments: [ Lisa Li ]
 [Joseph Souter] Clarification from when the two second period should start in the description (not just mentioned in the Fit Criterion).
 [Mohammed Ngum] Looking at the fit criterion and the rationale, it isn't clear that the fit criterion is a good test for the real need. The rationale needs to better explain the real need to make it easier to define a good fit criterion.
 [Gerard Corrigan] Agree with Ngum that the rationale could be better. Seamless doesn't really relate to performance it relates more to usability.The description should not have the time in it, it should just say quickly and the 2 seconds should be in the fit criterion.
+[Shunsuke Yanome] I think 2 scecond is difficult to define their function and UI.
 

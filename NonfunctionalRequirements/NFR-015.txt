@@ -18,3 +18,4 @@ Comments:
 [Andy Russell] Nothing to add.
 [Mohammed Ngum] Looks fine with me.
 [Gerard Corrigan] Looks good to me.
+[Shunsuke Yanome]Fit criteria is OK.

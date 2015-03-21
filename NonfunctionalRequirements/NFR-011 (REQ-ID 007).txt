@@ -18,3 +18,4 @@ Comments: 15 seconds is assumed to be a time that would not cause frustration to
 [Mohammed Ngum] Generally, this requirement looks more like a usability requirement than a performance requirement.
 [Andy Russell] Updated NFR / FC based on feedback.
 [Gerard Corrigan] Nothing to add requirement looks good to me.
+[Shunsuke Yanome] I think it should be within 2-5 seconds.

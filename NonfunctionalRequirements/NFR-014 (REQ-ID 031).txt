@@ -19,3 +19,4 @@ History: v1 - Original Creation
 [Andy Russell] Nothing further to add.
 [Mohammed Ngum] Based on the assumption, this looks fine to me.
 [Gerard Corrigan] Agree Alvaro that this is not a requirment of the system. It is clearly stated that the system to record treatments is seperate and there should be no interface with the appoinments/payments system.
+[Shunsuke Yanome] I think 5 minutes is too long. Maybe it is better to divide smaller function.

@@ -1,4 +1,4 @@
-REQ-ID ñ	 NFR-009
+REQ-ID ÅE NFR-009
 
 Description:	the product interface with the accounts system will support an increase in users  associated with deployment to the other practice
 
@@ -38,3 +38,4 @@ Comments:	[Prem Bhatkar] relates to FR "The product shall inform the accounts sy
 [Joseph Souter] Description is missing. This seems difficult to test, as this would not be something that should be hard coded (an automatic upgrade of system after a set amount of time). Also I believe an earlier specification stated there were 1 full time receptionist for each clinic, the manager and a part time receptionist who goes between each to cover as needed, so there might already be 3 users from launch.
 [Mohammed Ngum] Description is missing. Fit criterion looks fine. Except the word concurrently makes me think what happens when 2 users push the same invoice to the accounts system. Do you need the test to cover this?
 [Gerard Corrigan] I would suggest this is a maintainability type requirement rather than a performance one. For scalability it would be better to test the number of invoices being sent to the accounts system as a new site is added rather than one extra user sending them.
+[Shunsuke Yanome] Fit criterion is ok.

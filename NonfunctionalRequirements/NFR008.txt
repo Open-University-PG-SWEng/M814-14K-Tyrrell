@@ -25,3 +25,4 @@ Description changed to read 'time interval' instead of 'time period', as the phr
 [Joseph Souter] Description and fit criterion both look good.
 [Mohammed Ngum] All looks well.
 [Gerard Corrigan] Fit criterion is assuming a possible solution.
+[Shunsuke Yanome] Fit criterion can be realized.

@@ -27,3 +27,4 @@ History: 02-03-2015 Created
 [Joseph Souter] Good after addition of assumption. Might be best to limit to 99% of the time to accommodate system/network errors.
 [Mohammed Ngum] Looks fine with the assumption made.
 [Gerard Corrigan] Can't fault this requirement.
+[Shunsuke Yanome] Fit criteria is ok for me.

@@ -19,3 +19,4 @@ Comments: [Emma Hastings] creator
 [Joseph Souter] Description and fit criterion look good, as mentioned a date/time stamp would be useful here for recording when the payment is made. Could mention that this could be tested by mocking feedback data of payments being completed in unit test style.
 [Mohammed Ngum] Description looks good, but i think the rationale and the fit criterion are pointing to a solution. The user could be a patient for example.
 [Gerard Corrigan] Agree with previous comments that a date stamp should be added. The 100% should be in the requirement and the fit criterion should perform a test a on a sample of say 100 transactions to make sure the details are indeed being captured.
+[Shunsuke Yanome] Fit criterion is ok.

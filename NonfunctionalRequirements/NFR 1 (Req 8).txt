@@ -20,3 +20,4 @@ v0.2 - Amended description to make clearer, and added access levels to rationale
 [Joseph Souter] 100 Records in a test seems extreme here. This level of testing could lead to an extreme test length. Also more clarity is needed on description of who can access data.
 [Mohammed Ngum] Fit criterion should be clearer in terms of testing the input of new patient treatment records and amending existing patient treatment records.
 [Gerard Corrigan] The description is too long and seems to include two requirments, one to input a record and one to ammend it. The rationale includes a possible solution, the requirement should be independant of the solution.
+[Shunsuke Yanome] I think fit criterion is that tesing cases should be passed 100 %.

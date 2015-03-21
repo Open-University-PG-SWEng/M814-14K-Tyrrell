@@ -29,3 +29,4 @@ Comments: [M814-ModuleChair] Add comments below, making sure to include your ini
 [Mohammed Ngum] Fit criterion looks good. But I also don't know what you mean by vectors.
 [Iain Sproat] The use the word 'vector' in the above is in the context of attack surfaces: http://en.wikipedia.org/wiki/Attack_surface
 [Gerard Corrigan] The description suggests more than one requirement.
+[Shunsuke Yanome] Fit criterion is ok. I am not sure why 20 attempts?
