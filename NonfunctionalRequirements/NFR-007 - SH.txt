@@ -5,5 +5,7 @@ Rationale: The online payment transactions needs to ensure the reliability for p
 Fit Criterion: The server authentication by using the latest techniques of data encryption.
 Originator: Shunsuke Yanome [SH]
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+Revised Fit criterion:The server authentication by using the latest techniques (SSL Certificates) of data encryption.
+Comments: I crafified the latest technique for server authentication.
 
 
